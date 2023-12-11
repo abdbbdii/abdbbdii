@@ -1,6 +1,33 @@
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdbbdii&theme=github_dark)
+
+# Hi there 👋
+
+```python
+name = "Abdul Rahman"
+nick = "abd"
+username = "abdbbdii"
+languages = [
+    "Python",
+    "C/C++",
+]
+platform = "VS Code"
+```
+### My stats
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=Abdul%20Rahman's%20Activity%20Graph%20on%20Github&hide_border=true&line=adbac7&color=adbac7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdbbdii&theme=github_dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdbbdii&theme=github_dark)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdbbdii&theme=github_dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdbbdii&theme=github_dark) -->
 
+### Meet my code buddy!
+<img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'>
 
-### Hi there 👋
+|Ibraheem Qureshi|
+|:-:|
+|[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|
+|[@Abeehimr](https://github.com/Abeehimr)|
+|⭐⭐⭐⭐⭐|
+
+---
+### If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abdbbdii)
