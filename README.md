@@ -3,13 +3,19 @@
 
 ```python
 name = "Abdul Rahman"
-nick = "abd"
+nick = name[0:2]
 username = "abdbbdii"
 languages = [
     "Python",
     "C/C++",
 ]
-platform = "VS Code"
+IDE = "VS Code"
+games = [
+    "Minecraft",
+    None,
+]
+learning = True
+earning = False
 ```
 ### My stats
 
