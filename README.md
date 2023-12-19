@@ -13,7 +13,9 @@ platform = "VS Code"
 ```
 ### My stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=Abdul%20Rahman's%20Activity%20Graph%20on%20Github&hide_border=true&line=adbac7&color=adbac7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdbbdii&theme=github_dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdbbdii&theme=github_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdbbdii&theme=github_dark) -->
