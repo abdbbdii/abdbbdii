@@ -4,7 +4,7 @@
 ```python
 name = "Abdul Rahman"
 nick = name[0:2]
-username = "abdbbdii"
+username = name[0:2] + "bbdii"
 languages = [
     "Python",
     "C/C++",
