@@ -32,7 +32,7 @@ earning = False
 |:-:|:-:|
 |[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|Need more buddies like him 🥲|
 |[@Abeehimr](https://github.com/Abeehimr)||
-|⭐⭐⭐⭐⭐|
+|⭐⭐⭐⭐⭐||
 
 ---
 ### If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
