@@ -3,7 +3,7 @@
 
 ```python
 name = "Abdul Rahman"
-nick = name[0:2].lower()
+nick = name[0:3].lower()
 username = nick + "bbdii"
 languages = [
     "Python",
