@@ -23,10 +23,10 @@ platform = "VS Code"
 ### Meet my code buddy!
 <img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'>
 
-|Ibraheem Qureshi|
-|:-:|
-|[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|
-|[@Abeehimr](https://github.com/Abeehimr)|
+|Ibraheem Qureshi||
+|:-:|:-:|
+|[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|Need more buddies like him 🥲|
+|[@Abeehimr](https://github.com/Abeehimr)||
 |⭐⭐⭐⭐⭐|
 
 ---
