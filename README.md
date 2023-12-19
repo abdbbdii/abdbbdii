@@ -9,7 +9,7 @@ languages = [
     "Python",
     "C/C++",
 ]
-IDE = "VS Code"
+ide = "VS Code"
 games = [
     "Minecraft",
     None,
