@@ -27,9 +27,10 @@ earning = False
 ### Meet my code buddy!
 <img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'>
 
+<!-- |[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|Need more buddies like him 🥲| -->
 |Ibraheem Qureshi||
 |:-:|:-:|
-|[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|Need more buddies like him 🥲|
+|[![@Abeehimr](https://github.com/abdbbdii/abdbbdii/assets/69167454/935bb2c7-834d-43e8-811e-a55559defe71)](https://github.com/Abeehimr)|Need more buddies like him 🥲|
 |[@Abeehimr](https://github.com/Abeehimr)||
 |⭐⭐⭐⭐⭐||
 
