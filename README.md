@@ -1,10 +1,9 @@
-
 # Hi there 👋
 
 ```python
 name = "Abdul Rahman"
 shortName = name[0:3].lower()
-username = nick + "bbdii"
+username = shortName + "bbdii"
 print(name, shortName, username, sep='\n')
 ```
 ```console
