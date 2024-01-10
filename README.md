@@ -6,8 +6,8 @@ shortName = name[0:3].lower()
 username = shortName + "bbdii"
 print(name, shortName, username, sep='\n')
 ```
-```console
-$ curl -sSL https://example.com/your_script.py | sed -n '5,10p' | python3 -
+```curl
+curl -sSL https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/README.md | sed -n '5,8p' | python3 -
 Abdul Rahman
 abd
 abdbbdii
