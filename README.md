@@ -1,13 +1,12 @@
 # Hi there 👋
 
 ```python
+im
 name = "Abdul Rahman"
-shortName = name[0:3].lower()
-username = shortName + "bbdii"
-print(name, shortName, username, sep='\n')
+print(f'Name: {name}', f'shortName: {name[0:3].lower()}', sep='\n')
 ```
-```curl
-curl -sSL https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/README.md | sed -n '5,8p' | python3 -
+```bash
+$ curl -sSL https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/README.md | sed -n '4,5p' | python3
 Abdul Rahman
 abd
 abdbbdii
