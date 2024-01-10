@@ -3,8 +3,17 @@
 
 ```python
 name = "Abdul Rahman"
-nick = name[0:3].lower()
+shortName = name[0:3].lower()
 username = nick + "bbdii"
+print(name, shortName, username, sep='\n')
+```
+```console
+$ curl -sSL https://example.com/your_script.py | sed -n '5,10p' | python3 -
+Abdul Rahman
+abd
+abdbbdii
+```
+```python
 languages = [
     "Python",
     "C/C++",
@@ -27,14 +36,13 @@ earning = False
 ### Meet my code buddy!
 <img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'>
 
-<!-- |[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|Need more buddies like him 🥲| -->
+<!-- |[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)| -->
 |Ibraheem Qureshi|
 |:-:|
 |[![@Abeehimr](https://github.com/abdbbdii/abdbbdii/assets/69167454/935bb2c7-834d-43e8-811e-a55559defe71)](https://github.com/Abeehimr)|
 |[@Abeehimr](https://github.com/Abeehimr)|
-|⭐⭐⭐⭐⭐|
 
 ---
-### If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abdbbdii)
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/abdbbdii) -->
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffffff?logo=buymeacoffee&style=for-the-badge&color=000000&logoColor=ffffff)](https://www.buymeacoffee.com/abdbbdii)
