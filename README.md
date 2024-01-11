@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ```python
-im
 name = "Abdul Rahman"
 print(f'Name: {name}', f'shortName: {name[0:3].lower()}', sep='\n')
 ```
