@@ -1,5 +1,5 @@
 # Hi there 👋
-
+![alt text](<Frame 5.svg>)
 ```python
 name = "Abdul Rahman"
 print(f'Name: {name}', f'shortName: {name[0:3].lower()}', sep='\n')
