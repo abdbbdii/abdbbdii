@@ -3,24 +3,10 @@
 
 <p align="center"
 style="
-    background-image: url('Frame 5.svg');
-    width: 100%;
-  	position: relative;
-  	height: 200px;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: center;
-  	padding: 10px;
-  	box-sizing: border-box;
-  	gap: 10px;
-  	text-align: center;
-  	font-size: 40px;
   	color: #8957e5;
-  	font-family: Inter;
 ">
   <!-- <img src="Frame 5.svg" /> -->
+  sadasdasdasd
 
 </p>
 
