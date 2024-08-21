@@ -1,5 +1,31 @@
 # Hi there 👋
-![alt text](<Frame 5.svg>)
+<!-- center -->
+
+<p align="center"
+style="
+    background-image: url('Frame 5.svg');
+    width: 100%;
+  	position: relative;
+  	height: 200px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	gap: 10px;
+  	text-align: center;
+  	font-size: 40px;
+  	color: #8957e5;
+  	font-family: Inter;
+">
+  <!-- <img src="Frame 5.svg" /> -->
+
+</p>
+
+
+
 ```python
 name = "Abdul Rahman"
 print(f'Name: {name}', f'shortName: {name[0:3].lower()}', sep='\n')
@@ -33,10 +59,10 @@ earning = False
 ### Meet my code buddy!
 <img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'>
 
-|Ibraheem Qureshi|
-|:-:|
-|[![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr)|
-|[@Abeehimr](https://github.com/Abeehimr)|
+|                                   Ibraheem Qureshi                                    |
+| :-----------------------------------------------------------------------------------: |
+| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) |
+|                       [@Abeehimr](https://github.com/Abeehimr)                        |
 
 ---
 
