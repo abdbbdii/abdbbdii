@@ -1,17 +1,10 @@
-<!-- <img align=left src="./L.svg" width=200>
-<img align=right src="./R.svg" width=200>
-<br>
+![My Name is AbduL Rehman](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/header.svg)
 
+<div align = "center">
 
-# `Hi There 👋`
-
-<img src="./abdanimationlogo.gif" width=100> -->
-
-![My Name is Abdul Rehman](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/H.svg)
-
-<p align=center>
 Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bibendum imperdiet mauris id sit. Morbi dui integer vitae fringilla sodales proin viverra. Laoreet ultricies elementum at nunc potenti viverra. Elementum non adipiscing metus mauris morbi consectetur nisi. Est facilisi a scelerisque viverra. Viverra a semper leo sem felis quam. Aliquet platea purus faucibus facilisis eros et metus tincidunt rhoncus. Dui eget elementum convallis consequat. Arcu nec in et et vulputate suscipit
-</p>
+
+</div>
 
 ---
 
@@ -22,7 +15,7 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 </div>
 
 | Category | Tools |
-| -------: | :---- |
+| --- | --- |
 | Programming Languages | ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=000000&logoColor=3776AB) ![C/C++](https://img.shields.io/badge/C/C++-ffffff?logo=c%2B%2B&style=for-the-badge&color=000000&logoColor=00599C) ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&style=for-the-badge&color=000000&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-ffffff?logo=sql&style=for-the-badge&color=000000&logoColor=003B57) |
 | Markup  Languages | ![HTML](https://img.shields.io/badge/HTML-ffffff?logo=html5&style=for-the-badge&color=000000&logoColor=E34F26) ![Markdown](https://img.shields.io/badge/Markdown-ffffff?logo=markdown&style=for-the-badge&color=000000&logoColor=ffffff) ![LaTeX](https://img.shields.io/badge/LaTeX-ffffff?logo=latex&style=for-the-badge&color=000000&logoColor=008080) |
 | Style Sheet Languages | ![CSS](https://img.shields.io/badge/CSS-ffffff?logo=css3&style=for-the-badge&color=000000&logoColor=1572B6) |
@@ -35,38 +28,83 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 | Graphics & Design | ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-ffffff?logo=adobe-illustrator&style=for-the-badge&color=000000&logoColor=FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-ffffff?logo=adobe-photoshop&style=for-the-badge&color=000000&logoColor=31A8FF) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-ffffff?logo=adobe-premiere-pro&style=for-the-badge&color=000000&logoColor=9999FF) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-ffffff?logo=adobe-after-effects&style=for-the-badge&color=000000&logoColor=9999FF) ![Figma](https://img.shields.io/badge/Figma-ffffff?logo=figma&style=for-the-badge&color=000000&logoColor=F24E1E) ![Spline](https://img.shields.io/badge/Spline-ffffff?logo=spline&style=for-the-badge&color=000000&logoColor=FF4F4F) ![Blender](https://img.shields.io/badge/Blender-ffffff?logo=blender&style=for-the-badge&color=000000&logoColor=F5792A) |
 
 ---
-# `Projects`
 
-| Project | Description | Status | Language | Framework | Tools |
-| ------- | ----------- | ------ | -------- | --------- | ----- |
+<div align=center>
+
+# `Projects & Repositories`
+
+</div>
+
+| Project | Description |
+| --- | --- |
+| [Car-Rental-Management-System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. |
+| [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. |
+| [Context-Menu-Plugin-Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. |
+| [DBS-Semester-Project-Source-Control-System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). |
+| [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. |
+| [Harverd-CS50P-projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. |
+| [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. |
+| [LMS-Semester-Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. |
+| [Markdown-badge-generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. |
+| [minecraft-hotkey-map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. |
+| [prayer-time-tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. |
+| [prize-bond-finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. |
 
 ---
+
+<div align=center>
+
 # `GitHub Stats`
 
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7)
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7)
 
 ---
+
+<div align=center>
+
 # `Meet My Code Buddy!`
 
-| Ibraheem Qureshi |
-| :---: |
-| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) |
-| [@Abeehimr](https://github.com/Abeehimr) |
+</div>
+
+<div align = "center">
+
+| abeehimr | Abdul Rahman |
+| :---: | :---: |
+| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) | [![@abdbbdii](https://github.com/abdbbdii.png?size=150)](https://github.com/abdbbdii) |
+| [@Abeehimr](https://github.com/Abeehimr) | [@abdbbdii](https://github.com/abdbbdii) |
+
+</div>
 
 ---
+
+<div align=center>
+
+# `Connect with Me`
+
+</div>
+
+---
+
+<div align=center>
+
 # `Support Me`
+
+</div>
+
+<div align = "center">
 
 Help me keep my work open source and free for everyone. Show your appreciation by buying me a coffee ☕️
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffffff?logo=buymeacoffee&style=for-the-badge&color=000000&logoColor=ffffff)](https://www.buymeacoffee.com/abdbbdii)
 
-<img src="https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/heading.svg" width=500>
+</div>
 
+<div align = "center">
 
+<img align=center src="https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/heading.svg">
 
-<!-- <img align='right' src='https://github.com/abdbbdii/abdbbdii/assets/69167454/bd0414cd-5c66-4bf5-8e57-c9828627f551' width='200'> -->
-
-
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/abdbbdii) -->
+</div>
 
