@@ -1,10 +1,17 @@
-<img align=left src="./L.svg" width=200>
+<!-- <img align=left src="./L.svg" width=200>
 <img align=right src="./R.svg" width=200>
 <br>
-<h2 align=center>Hi There 👋</h2>
-<br><br><br>
 
-<span style="font-size:0.5em;">Text goes here</span>
+<center>
+
+# `Hi There 👋`
+
+</center>
+
+<br><br><br> -->
+
+<img align=center src="./H.svg">
+
 
 ```python
 name = "Abdul Rahman"
