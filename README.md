@@ -43,21 +43,21 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 
 <div align = "center">
 
-| Project | Description |
-| --- | --- |
-| [Car-Rental-Management-System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. |
-| [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. |
-| [Context-Menu-Plugin-Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. |
-| [DBS-Semester-Project-Source-Control-System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). |
-| [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. |
-| [Harverd-CS50P-projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. |
-| [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. |
-| [LMS-Semester-Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. |
-| [Markdown-badge-generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. |
-| [minecraft-hotkey-map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. |
-| [prayer-time-tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. |
-| [prize-bond-finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. |
-| [Whatsapp_API](https://github.com/abdbbdii/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. |
+| Project | Description | Created |
+| --- | --- | --- |
+| [Car-Rental-Management-System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
+| [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
+| [Context-Menu-Plugin-Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
+| [DBS-Semester-Project-Source-Control-System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
+| [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
+| [Harverd-CS50P-projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
+| [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
+| [LMS-Semester-Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
+| [Markdown-badge-generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
+| [minecraft-hotkey-map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
+| [prayer-time-tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
+| [prize-bond-finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
+| [Whatsapp_API](https://github.com/abdbbdii/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
 
 </div>
 
@@ -84,55 +84,201 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 
 <div align = "center">
 
-<div align = "center">
-
-### Plan To Watch
-
-</div>
-
-| `91 Days` | `Akame ga Kill!` | `Boku no Hero Ac...` | `Chuunibyou demo...` | `Code Geass: Han...` | `Death Parade` | `Gake no Ue no P...` | `Haikyuu!!` | `Hal` | `Horimiya` | `Howl no Ugoku S...` | `Kengan Ashura P...` | `Kimitachi wa Do...` | `Kiseijuu: Sei n...` | `Kobayashi-san C...` | `Kono Subarashii...` | `Kotonoha no Niw...` | `Ninja Kamui` | `Omoide no Marni...` | `Re:Zero kara Ha...` | `Shikanoko Nokon...` | `Shin no Nakama ...` | `Shinchou Yuusha...` | `Tenkuu no Shiro...` | `Tensei shitara ...` | `Tonari no Kaibu...` | `Umi ga Kikoeru` |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) | ![Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium](https://cdn.myanimelist.net/images/anime/2/88062.jpg) | ![Death Parade](https://cdn.myanimelist.net/images/anime/5/71553.jpg) | ![Gake no Ue no Ponyo](https://cdn.myanimelist.net/images/anime/1331/138727.jpg) | ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.jpg) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.jpg) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.jpg) | ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) | ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) | ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
+<details><summary>Plan To Watch</summary>
 
 <div align = "center">
 
-### Completed
+| 91 Days | Akame ga Kill! | Boku no Hero Ac... | Chuunibyou demo... | Code Geass: Han... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) | ![Code Geass: Hangyaku no Lelouch](https://cdn.myanimelist.net/images/anime/1032/135088.jpg) |
 
 </div>
-
-| `Ano Hi Mita Han...` | `Ansatsu Kyoushi...` | `Bleach Movie 3:...` | `Boku no Kokoro ...` | `Byousoku 5 Cent...` | `Chainsaw Man` | `Dark Gathering` | `Death Note: Rew...` | `Dororo` | `Dr. Stone: New ...` | `Dr. Stone: Ryuu...` | `Dr. Stone: Ston...` | `Jujutsu Kaisen` | `Jujutsu Kaisen ...` | `Kaijuu 8-gou Mo...` | `Kimetsu no Yaib...` | `Kimi no Suizou ...` | `Koe no Katachi` | `Mushoku Tensei:...` | `Nakitai Watashi...` | `Nichijou` | `One Punch Man 2...` | `One Punch Man S...` | `Ore dake Level ...` | `Owari no Seraph` | `Owari no Seraph...` | `Re:Zero kara Ha...` | `Shigatsu wa Kim...` | `Shingeki no Kyo...` | `Sword Art Onlin...` | `Tenki no Ko` | `Tokyo Ghoul:re` | `Tokyo Ghoul:re ...` | `Tokyo Revengers` | `Tokyo Revengers...` | `Tomodachi Game` | `Violet Evergard...` | `Wind Breaker` | `Yakusoku no Nev...` | `Youkoso Jitsury...` |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg) | ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) | ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.jpg) | ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) | ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) | ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.jpg) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) | ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
 
 <div align = "center">
 
-### Watching
+| Code Geass: Han... | Death Parade | Gake no Ue no P... | Haikyuu!! | Hal |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium](https://cdn.myanimelist.net/images/anime/2/88062.jpg) | ![Death Parade](https://cdn.myanimelist.net/images/anime/5/71553.jpg) | ![Gake no Ue no Ponyo](https://cdn.myanimelist.net/images/anime/1331/138727.jpg) | ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.jpg) |
 
 </div>
 
-| `Ao no Exorcist` | `Fruits Basket 1...` | `Kaguya-sama wa ...` | `Steins;Gate 0` |
+<div align = "center">
+
+| Horimiya | Howl no Ugoku S... | Kengan Ashura P... | Kimitachi wa Do... | Kiseijuu: Sei n... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.jpg) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.jpg) | ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Kobayashi-san C... | Kono Subarashii... | Kotonoha no Niw... | Ninja Kamui | Omoide no Marni... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) | ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Re:Zero kara Ha... | Shikanoko Nokon... | Shin no Nakama ... | Shinchou Yuusha... | Tenkuu no Shiro... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) | ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Tensei shitara ... | Tonari no Kaibu... | Umi ga Kikoeru |
+| :---: | :---: | :---: |
+| ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
+
+</div>
+
+</details>
+
+<details><summary>Completed</summary>
+
+<div align = "center">
+
+| Ano Hi Mita Han... | Ansatsu Kyoushi... | Bleach Movie 3:... | Boku no Kokoro ... |
+| :---: | :---: | :---: | :---: |
+| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg) | ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Byousoku 5 Cent... | Chainsaw Man | Dark Gathering | Death Note: Rew... | Dororo |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) | ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Dr. Stone: New ... | Dr. Stone: Ryuu... | Dr. Stone: Ston... | Jujutsu Kaisen | Jujutsu Kaisen ... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Jujutsu Kaisen ... | Kaijuu 8-gou Mo... | Kimetsu no Yaib... |
+| :---: | :---: | :---: |
+| ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kimetsu no Yaiba: Hashira Geiko-hen](https://cdn.myanimelist.net/images/anime/1565/142711.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Kimetsu no Yaib... | Kimi no Suizou ... | Koe no Katachi | Mushoku Tensei:... |
+| :---: | :---: | :---: | :---: |
+| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Nakitai Watashi... | Nichijou | One Punch Man 2... | One Punch Man S... |
+| :---: | :---: | :---: | :---: |
+| ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.jpg) | ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Ore dake Level ... | Owari no Seraph | Owari no Seraph... | Re:Zero kara Ha... | Shigatsu wa Kim... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Shingeki no Kyo... |
+| :---: |
+| ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Sword Art Onlin... |
+| :---: |
+| ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Tenki no Ko | Tokyo Ghoul:re | Tokyo Ghoul:re ... | Tokyo Revengers | Tokyo Revengers... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.jpg) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) | ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Tomodachi Game | Violet Evergard... | Wind Breaker |
+| :---: | :---: | :---: |
+| ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) |
+
+</div>
+
+<div align = "center">
+
+| Yakusoku no Nev... | Youkoso Jitsury... |
+| :---: | :---: |
+| ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
+
+</div>
+
+</details>
+
+<details><summary>Watching</summary>
+
+<div align = "center">
+
+| Ao no Exorcist | Fruits Basket 1... | Kaguya-sama wa ... | Steins;Gate 0 |
 | :---: | :---: | :---: | :---: |
 | ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg) | ![Steins;Gate 0](https://cdn.myanimelist.net/images/anime/1375/93521.jpg) |
 
-<div align = "center">
-
-### Dropped
-
 </div>
 
-| `Cyberpunk: Edge...` | `Elfen Lied` | `Kage no Jitsury...` | `Sousou no Frier...` | `Tekken: Bloodli...` | `Trigun Stampede` | `Tsuki ga Michib...` |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.jpg) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) | ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.jpg) |
+</details>
+
+<details><summary>Dropped</summary>
 
 <div align = "center">
 
-### On Hold
+| Cyberpunk: Edge... | Elfen Lied | Kage no Jitsury... | Sousou no Frier... | Tekken: Bloodli... |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.jpg) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) |
 
 </div>
 
-| `Kiniro Mosaic` | `Kusuriya no Hit...` | `Tokyo Revengers...` |
+<div align = "center">
+
+| Trigun Stampede | Tsuki ga Michib... |
+| :---: | :---: |
+| ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.jpg) |
+
+</div>
+
+</details>
+
+<details><summary>On Hold</summary>
+
+<div align = "center">
+
+| Kiniro Mosaic | Kusuriya no Hit... | Tokyo Revengers... |
 | :---: | :---: | :---: |
 | ![Kiniro Mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.jpg) | ![Kusuriya no Hitorigoto](https://cdn.myanimelist.net/images/anime/1708/138033.jpg) | ![Tokyo Revengers: Tenjiku-hen](https://cdn.myanimelist.net/images/anime/1853/139843.jpg) |
+
+</div>
+
+</details>
 
 </div>
 
