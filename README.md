@@ -104,7 +104,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align = "center">
 
-<img align=center src="https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/heading.svg">
+<img align=center src="https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/footer.svg">
 
 </div>
 
