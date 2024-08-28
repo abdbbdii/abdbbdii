@@ -45,19 +45,19 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [Car-Rental-Management-System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
-| [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
-| [Context-Menu-Plugin-Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
-| [DBS-Semester-Project-Source-Control-System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
-| [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
-| [Harverd-CS50P-projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
 | [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
-| [LMS-Semester-Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
-| [Markdown-badge-generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
-| [minecraft-hotkey-map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
-| [prayer-time-tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
-| [prize-bond-finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
+| [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
+| [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
 | [Whatsapp_API](https://github.com/abdbbdii/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
+| [DBS-Semester-Project-Source-Control-System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
+| [LMS-Semester-Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
+| [Context-Menu-Plugin-Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
+| [prayer-time-tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
+| [Markdown-badge-generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
+| [Car-Rental-Management-System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
+| [Harverd-CS50P-projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
+| [prize-bond-finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
+| [minecraft-hotkey-map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
 
 </div>
 
@@ -223,10 +223,10 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 
 <div align = "center">
 
-| abeehimr | Abdul Rahman |
-| :---: | :---: |
-| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) | [![@abdbbdii](https://github.com/abdbbdii.png?size=150)](https://github.com/abdbbdii) |
-| [@Abeehimr](https://github.com/Abeehimr) | [@abdbbdii](https://github.com/abdbbdii) |
+| abeehimr |
+| :---: |
+| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) |
+| [@Abeehimr](https://github.com/Abeehimr) |
 
 </div>
 
