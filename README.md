@@ -2,7 +2,9 @@
 <img align=right src="./R.svg" width=200>
 <br>
 <h2 align=center>Hi There 👋</h2>
-<br>
+<br><br><br>
+
+<span style="font-size:0.5em;">Text goes here</span>
 
 ```python
 name = "Abdul Rahman"
