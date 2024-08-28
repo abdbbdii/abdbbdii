@@ -6,7 +6,7 @@
 
 <div align = "center">
 
-Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bibendum imperdiet mauris id sit. Morbi dui integer vitae fringilla sodales proin viverra. Laoreet ultricies elementum at nunc potenti viverra. Elementum non adipiscing metus mauris morbi consectetur nisi. Est facilisi a scelerisque viverra. Viverra a semper leo sem felis quam. Aliquet platea purus faucibus facilisis eros et metus tincidunt rhoncus. Dui eget elementum convallis consequat. Arcu nec in et et vulputate suscipit
+I'm a software developer and tech enthusiast with a passion for Python programming, Android development, and creative design. Whether I'm building web applications, designing user interfaces, or diving into the intricacies of Android systems, I love turning ideas into reality. I am also a freelance developer, and I enjoy working on projects that challenge me to learn new skills and technologies.
 
 </div>
 
@@ -72,6 +72,19 @@ Lorem ipsum dolor sit amet consectetur. Velit pulvinar laoreet nec venenatis bib
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7)
+
+</div>
+
+<div align = "center">
+
+---
+# `Hobbies & Interests`
+
+</div>
+
+<div align = "center">
+
+When I'm not coding, you'll find me immersed in anime, gaming, or experimenting with Android devices—rooting and flashing custom ROMs is my kind of fun.
 
 </div>
 
