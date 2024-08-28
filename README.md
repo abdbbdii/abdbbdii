@@ -1,8 +1,8 @@
 <img align=left src="./L.svg" width=200>
 <img align=right src="./R.svg" width=200>
-<br><br>
-<h3 align=center>Hi There 👋</h3>
-<br><br>
+<br>
+<h2 align=center>Hi There 👋</h2>
+<br>
 
 ```python
 name = "Abdul Rahman"
