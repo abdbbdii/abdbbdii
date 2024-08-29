@@ -63,7 +63,6 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [test](https://github.com/abdbbdii/test) | hi. | 2024-08-29 |
 | [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
 | [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
 | [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
@@ -154,7 +153,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.webp) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) |
+| ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) |
 
 | Jujutsu Kaisen ...eason | Kimetsu no Yaiba | Kimetsu no Yaib...a-hen | Kimetsu no Yaib...o-hen | Kimetsu no Yaib...o-hen |
 | :---: | :---: | :---: | :---: | :---: |
@@ -206,7 +205,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Cyberpunk: Edge...nners | Elfen Lied | Sousou no Frieren | Tekken: Bloodline | Trigun Stampede |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.webp) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.webp) | ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) |
+| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.webp) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) | ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) |
 
 | Tsuki ga Michib...uchuu |
 | :---: |
