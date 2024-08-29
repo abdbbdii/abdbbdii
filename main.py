@@ -32,7 +32,7 @@ class ABDGHMD:
 
     @staticmethod
     def heading(text):
-        return open("heading_template.md").read().strip().replace(r"{heading}", text)
+        return open("assets/md/heading_template.md").read().strip().replace(r"{heading}", text)
 
 
     @staticmethod
@@ -150,24 +150,24 @@ def get_projects(username):
 def make_markdown():
     md = ABDGHMD()
 
-    md.write(open("header.md", encoding="utf-8").read())
-    md.write(open("description.md", encoding="utf-8").read())
+    md.write(open("assets/md/header.md", encoding="utf-8").read())
+    md.write(open("assets/md/description.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Languages & Tools"))
-    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("langs_tools.json")))))
+    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
     md.write(ABDGHMD.heading("Projects & Repositories"))
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdbbdii"))))
     md.write(ABDGHMD.heading("GitHub Stats"))
-    md.write(open("github_stats.md", encoding="utf-8").read())
+    md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Hobbies & Interests"))
-    md.write(open("hobbies.md", encoding="utf-8").read())
+    md.write(open("assets/md/hobbies.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("My Anime List"))
     md.write(ABDGHMD.get_anime("abdbbdii"))
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
-    md.write(ABDGHMD.table(get_code_buddies(json.load(open("code_buddies.json"))), centered=True))
+    md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
     md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))
-    md.write(open("supportme.md", encoding="utf-8").read())
-    md.write(open("footer.md", encoding="utf-8").read())
+    md.write(open("assets/md/supportme.md", encoding="utf-8").read())
+    md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
 

@@ -1,6 +1,6 @@
 <div align = "center">
 
-![I'm Abdul Rahman AKA abd](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/header.svg)
+![I'm Abdul Rahman AKA abd](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/header.svg)
 
 </div>
 
@@ -129,7 +129,7 @@ In my free time, I love diving into the world of anime, experimenting with Andro
 
 | Shinchou Yuusha...ugiru | Tenkuu no Shiro...aputa | Tensei shitara ...a Ken | Tonari no Kaibu...u-kun | Umi ga Kikoeru |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
+| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.webp) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
 
 </details>
 
@@ -145,7 +145,7 @@ In my free time, I love diving into the world of anime, experimenting with Andro
 
 | Byousoku 5 Cent...meter | Chainsaw Man | Dark Gathering | Death Note: Rewrite | Dororo |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) | ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) |
+| ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) | ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.webp) |
 
 | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie |
 | :---: | :---: | :---: | :---: | :---: |
@@ -157,7 +157,7 @@ In my free time, I love diving into the world of anime, experimenting with Andro
 
 | Kimetsu no Yaib...u-hen | Kimi no Suizou ...betai | Koe no Katachi | Mushoku Tensei:... Dasu | Nakitai Watashi...aburu |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) |
+| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.webp) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) |
 
 | Nichijou | One Punch Man 2...eason | One Punch Man 2...cials | One Punch Man S...cials | Ore dake Level ...a Ken |
 | :---: | :---: | :---: | :---: | :---: |
@@ -273,6 +273,6 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align = "center">
 
-<img align=center src="https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/footer.svg">
+![footer](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/footer.svg)
 
 </div>

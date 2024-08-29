@@ -1,1 +1,1 @@
-![footer](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/footer.svg)
+![footer](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/footer.svg)
