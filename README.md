@@ -177,7 +177,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Online II | Sword Art Onlin...ation | Sword Art Onlin...world | Sword Art Onlin...eason | Tenki no Ko |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) | ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) |
+| ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.webp) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) | ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) |
 
 | Tokyo Ghoul:re | Tokyo Ghoul:re ...eason | Tokyo Revengers | Tokyo Revengers...n-hen | Tomodachi Game |
 | :---: | :---: | :---: | :---: | :---: |
@@ -185,7 +185,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Violet Evergard...ngyou | Violet Evergard...Movie | Violet Evergard...Darou | Wind Breaker | Yakusoku no Nev...rland |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) | ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.webp) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) |
+| ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) | ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) |
 
 | Youkoso Jitsury...tsu e | Youkoso Jitsury...eason |
 | :---: | :---: |
