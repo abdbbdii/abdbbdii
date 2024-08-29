@@ -34,7 +34,6 @@ class ABDGHMD:
     def heading(text):
         return open("assets/md/heading_template.md").read().strip().replace(r"{heading}", text)
 
-
     @staticmethod
     def _list_dict_to_list_list(data):
         """
@@ -83,25 +82,6 @@ class ABDGHMD:
         return header + separator + rows
 
     @staticmethod
-    def get_anime(username):
-        md = ABDGHMD()
-        r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
-        for cat, raw_animes in r.items():
-            animes = []
-            for anime in raw_animes:
-                animes.append(
-                    {
-                        "Title": ABDGHMD._start_end(anime["title"], max=20),
-                        "poster": f"![{anime['title']}]({anime['main_picture']['medium']})",
-                    }
-                )
-            temp_tables = ABDGHMD()
-            for i in range(0, len(animes), 5):
-                temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + 5]), centered=True), centered=False)
-            md.write(str(temp_tables), centered=False, summary=cat.replace("_", " ").title())
-        return str(md)
-
-    @staticmethod
     def _start_end(text, max=20):
         if len(text) > max:
             return text[: max - 5] + "..." + text[-5:]
@@ -114,6 +94,25 @@ class ABDGHMD:
         with open(path, "w", encoding="utf-8") as f:
             f.write(self.md.strip())
 
+
+def get_anime(username):
+    md = ABDGHMD()
+    r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
+    for cat, raw_animes in r.items():
+        animes = []
+        for anime in raw_animes:
+            animes.append(
+                {
+                    "Title": ABDGHMD._start_end(anime["title"], max=20),
+                    "poster": f"![{anime['title']}]({anime['main_picture']['medium']})",
+                }
+            )
+        temp_tables = ABDGHMD()
+        max_len = 4
+        for i in range(0, len(animes), max_len):
+            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True))
+        md.write(str(temp_tables), centered=False, summary=cat.replace("_", " ").title())
+    return str(md)
 
 
 def get_code_buddies(code_buddies):
@@ -164,7 +163,7 @@ def make_markdown():
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("My Anime List"))
-    md.write(ABDGHMD.get_anime("abdbbdii"), centered=False)
+    md.write(get_anime("abdbbdii"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
     # md.write(ABDGHMD.heading("Connect with Me"))
