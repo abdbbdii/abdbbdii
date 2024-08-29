@@ -162,7 +162,7 @@ def make_markdown():
     md.write(ABDGHMD.heading("GitHub Stats"))
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Hobbies & Interests"))
-    md.write(open("assets/md/hobbies.md", encoding="utf-8").read())
+    md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("My Anime List"))
     md.write(ABDGHMD.get_anime("abdbbdii"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))

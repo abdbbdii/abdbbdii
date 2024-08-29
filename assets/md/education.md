@@ -1,1 +1,1 @@
-I am currently pursuing a degree at the University of Engineering and Technology (UET), with an expected graduation in 2027. Along the way, I've earned several certifications including
+I am currently pursuing a degree at the University of Engineering and Technology (UET), with an expected graduation in 2027. Along the way, I've earned several certifications including,

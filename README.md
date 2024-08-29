@@ -19,7 +19,7 @@ I’m a passionate software developer and tech enthusiast, with a deep focus on 
 
 <div align="center">
 
-I am currently pursuing a degree at the University of Engineering and Technology (UET), with an expected graduation in 2027. Along the way, I've earned several certifications including
+I am currently pursuing a degree at the University of Engineering and Technology (UET), with an expected graduation in 2027. Along the way, I've earned several certifications including,
 
 </div>
 
@@ -100,15 +100,11 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 </div>
 
-<div align="center">
-
 - 🌟 Anime: Diving into the world of anime, exploring different genres and stories.
 - 🎮 Gaming: Engaging in immersive gaming experiences and exploring new titles.
 - 🤖 Android Experimentation: Experimenting with Android devices, including rooting and flashing custom ROMs.
 - 🎨 Graphic Design: Freelancing in graphic design, creating visual content.
 - 💻 Programming: Enhancing my programming skills and staying updated with the latest tech trends.
-
-</div>
 
 <div align="center">
 
@@ -157,7 +153,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) |
+| ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.webp) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) | ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) |
 
 | Jujutsu Kaisen ...eason | Kimetsu no Yaiba | Kimetsu no Yaib...a-hen | Kimetsu no Yaib...o-hen | Kimetsu no Yaib...o-hen |
 | :---: | :---: | :---: | :---: | :---: |
@@ -165,7 +161,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kimetsu no Yaib...u-hen | Kimi no Suizou ...betai | Koe no Katachi | Mushoku Tensei:... Dasu | Nakitai Watashi...aburu |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) |
+| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.webp) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) |
 
 | Nichijou | One Punch Man 2...eason | One Punch Man 2...cials | One Punch Man S...cials | Ore dake Level ...a Ken |
 | :---: | :---: | :---: | :---: | :---: |
