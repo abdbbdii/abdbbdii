@@ -152,7 +152,7 @@ def make_markdown():
     md.write(open("assets/md/header.md", encoding="utf-8").read())
     md.write(open("assets/md/description.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Education & Certifications"))
-    md.write(open("assets/md/education.md", encoding="utf-8").read())
+    md.write(open("assets/md/education.md", encoding="utf-8").read(), centered=False)
     md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("Languages & Tools"))
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
