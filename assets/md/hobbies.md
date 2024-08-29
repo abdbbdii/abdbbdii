@@ -1,0 +1,2 @@
+When I'm not coding, you'll find me immersed in anime, gaming, or experimenting with Android devices—rooting and flashing custom ROMs is my kind of fun.
+In my free time, I love diving into the world of anime, experimenting with Android systems (like rooting and flashing custom ROMs), and freelancing in graphic design. enhancing my skills in programming, and staying updated with the latest tech trends.
