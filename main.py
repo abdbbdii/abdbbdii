@@ -21,7 +21,7 @@ class ABDGHMD:
 
     def write(self, text, centered=True, summary=""):
         if centered:
-            self.md += '<div align = "center">\n\n'
+            self.md += '<div align="center">\n\n'
         if summary:
             self.md += f"<details><summary>{summary}</summary>\n\n"
         self.md += text.strip() + "\n\n"
@@ -98,7 +98,7 @@ class ABDGHMD:
             temp_tables = ABDGHMD()
             for i in range(0, len(animes), 5):
                 temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + 5]), centered=True), centered=False)
-            md.write(str(temp_tables), centered=True, summary=cat.replace("_", " ").title())
+            md.write(str(temp_tables), centered=False, summary=cat.replace("_", " ").title())
         return str(md)
 
     @staticmethod
@@ -152,6 +152,9 @@ def make_markdown():
 
     md.write(open("assets/md/header.md", encoding="utf-8").read())
     md.write(open("assets/md/description.md", encoding="utf-8").read())
+    md.write(ABDGHMD.heading("Education & Certifications"))
+    md.write(open("assets/md/education.md", encoding="utf-8").read())
+    md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("Languages & Tools"))
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
     md.write(ABDGHMD.heading("Projects & Repositories"))
@@ -161,10 +164,10 @@ def make_markdown():
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("My Anime List"))
-    md.write(ABDGHMD.get_anime("abdbbdii"))
+    md.write(ABDGHMD.get_anime("abdbbdii"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
-    md.write(ABDGHMD.heading("Connect with Me"))
+    # md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
