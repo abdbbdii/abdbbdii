@@ -1,6 +1,6 @@
 <div align = "center">
 
-![I'm Abdul Rahman AKA abd](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/header.svg)
+![I'm Abdul Rahman AKA abd](assets/svg/header.svg)
 
 </div>
 
@@ -109,7 +109,7 @@ In my free time, I love diving into the world of anime, experimenting with Andro
 
 | 91 Days | Akame ga Kill! | Boku no Hero Ac...demia | Chuunibyou demo...itai! | Code Geass: Han...louch |
 | :---: | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) | ![Code Geass: Hangyaku no Lelouch](https://cdn.myanimelist.net/images/anime/1032/135088.jpg) |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.webp) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) | ![Code Geass: Hangyaku no Lelouch](https://cdn.myanimelist.net/images/anime/1032/135088.jpg) |
 
 | Code Geass: Han...orium | Death Parade | Gake no Ue no Ponyo | Haikyuu!! | Hal |
 | :---: | :---: | :---: | :---: | :---: |
@@ -273,6 +273,6 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align = "center">
 
-![footer](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/footer.svg)
+![footer](assets/svg/footer.svg)
 
 </div>

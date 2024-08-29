@@ -1,1 +1,1 @@
-![I'm Abdul Rahman AKA abd](https://raw.githubusercontent.com/abdbbdii/abdbbdii/main/assets/svg/header.svg)
+![I'm Abdul Rahman AKA abd](assets/svg/header.svg)
