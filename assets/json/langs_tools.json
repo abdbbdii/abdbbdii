@@ -89,5 +89,13 @@
             "![Spline](https://img.shields.io/badge/Spline-ffffff?logo=spline&style=for-the-badge&color=000000&logoColor=FF4F4F)",
             "![Blender](https://img.shields.io/badge/Blender-ffffff?logo=blender&style=for-the-badge&color=000000&logoColor=F5792A)"
         ]
+    },
+    {
+        "Category": "Platforms & Operating Systems",
+        "Tools": [
+            "![Windows](https://img.shields.io/badge/Windows-ffffff?logo=windows&style=for-the-badge&color=000000&logoColor=0078D6)",
+            "![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=000000&logoColor=FCC624)",
+            "![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=000000&logoColor=3DDC84)"
+        ]
     }
 ]
