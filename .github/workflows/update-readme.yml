@@ -1,11 +1,8 @@
 name: Update README
 
 on:
-  push:
-    branches:
-      - main
   repository_dispatch:
-    types: [edit]
+    types: [update-readme]
 
 jobs:
   run-script:
@@ -18,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12.5'  # specify the Python version you need
+          python-version: "3.12.5"
 
       - name: Install dependencies
         run: |
