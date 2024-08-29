@@ -129,15 +129,15 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kimitachi wa Do...ru ka | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kono Subarashii...wo! 2 | Kotonoha no Niwa |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.webp) | ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.webp) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
+| ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.webp) | ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.webp) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.webp) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
 
 | Ninja Kamui | Omoide no Marnie | Re:Zero kara Ha...Movie | Shikanoko Nokon...antan | Shin no Nakama ...shita |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.webp) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) |
+| ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) |
 
 | Shinchou Yuusha...ugiru | Tenkuu no Shiro...aputa | Tensei shitara ...a Ken | Tonari no Kaibu...u-kun | Umi ga Kikoeru |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
+| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.webp) | ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
 
 </details>
 
@@ -157,7 +157,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Jujutsu Kaisen ...eason | Kimetsu no Yaiba | Kimetsu no Yaib...a-hen | Kimetsu no Yaib...o-hen | Kimetsu no Yaib...o-hen |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) | ![Kimetsu no Yaiba](https://cdn.myanimelist.net/images/anime/1286/99889.jpg) | ![Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://cdn.myanimelist.net/images/anime/1704/106947.jpg) | ![Kimetsu no Yaiba: Hashira Geiko-hen](https://cdn.myanimelist.net/images/anime/1565/142711.jpg) | ![Kimetsu no Yaiba: Katanakaji no Sato-hen](https://cdn.myanimelist.net/images/anime/1765/135099.webp) |
+| ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) | ![Kimetsu no Yaiba](https://cdn.myanimelist.net/images/anime/1286/99889.jpg) | ![Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://cdn.myanimelist.net/images/anime/1704/106947.jpg) | ![Kimetsu no Yaiba: Hashira Geiko-hen](https://cdn.myanimelist.net/images/anime/1565/142711.jpg) | ![Kimetsu no Yaiba: Katanakaji no Sato-hen](https://cdn.myanimelist.net/images/anime/1765/135099.jpg) |
 
 | Kimetsu no Yaib...u-hen | Kimi no Suizou ...betai | Koe no Katachi | Mushoku Tensei:... Dasu | Nakitai Watashi...aburu |
 | :---: | :---: | :---: | :---: | :---: |
@@ -197,7 +197,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ao no Exorcist | Fruits Basket 1...eason | Kaguya-sama wa ...ousen | Kaguya-sama wa ...ousen | Steins;Gate 0 |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.webp) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.webp) | ![Steins;Gate 0](https://cdn.myanimelist.net/images/anime/1375/93521.jpg) |
+| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.jpg) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg) | ![Steins;Gate 0](https://cdn.myanimelist.net/images/anime/1375/93521.jpg) |
 
 </details>
 
