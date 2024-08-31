@@ -192,7 +192,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Death Note: Rewrite | Dororo | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui |
 | :---: | :---: | :---: | :---: |
-| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.webp) |
+| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.webp) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.webp) |
 
 </div>
 
@@ -328,7 +328,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Tekken: Bloodline | Trigun Stampede | Tsuki ga Michib...uchuu |
 | :---: | :---: | :---: |
-| ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) | ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.jpg) |
+| ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) | ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.webp) |
 
 </div>
 
@@ -377,7 +377,11 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 </div>
 
-_Last Updated: 2024-09-01 03:05:10_
+<div align="center">
+
+> _Last Updated: 2024-09-01 03:08:24_
+
+</div>
 
 <div align="center">
 

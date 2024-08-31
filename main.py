@@ -170,7 +170,7 @@ def make_markdown():
     # md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
-    md.write("_Last Updated: " + str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")) + "_", centered=False)
+    md.write("> _Last Updated: " + str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")) + "_")
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
