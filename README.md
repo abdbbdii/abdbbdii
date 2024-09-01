@@ -60,6 +60,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Project | Description | Created |
 | --- | --- | --- |
+| [abd_utils_server](https://github.com/abdbbdii/abd_utils_server) | Django Server to manage my day-to-day tasks. | 2024-09-01 |
 | [hianime-to-myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
 | [ConsoleUtility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
 | [Google_Classroom_API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
@@ -132,7 +133,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Haikyuu!! | Hal | Horimiya | Howl no Ugoku Shiro |
 | :---: | :---: | :---: | :---: |
-| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
+| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.webp) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
 
 </div>
 
@@ -164,7 +165,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shinchou Yuusha...ugiru | Tenkuu no Shiro...aputa | Tensei shitara ...a Ken | Tonari no Kaibu...u-kun |
 | :---: | :---: | :---: | :---: |
-| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.webp) |
+| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.webp) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) |
 
 </div>
 
@@ -192,7 +193,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Boku no Kokoro ...Yatsu | Byousoku 5 Cent...meter | Chainsaw Man | Dark Gathering |
 | :---: | :---: | :---: | :---: |
-| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
+| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.webp) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.webp) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
 
 </div>
 
@@ -248,7 +249,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Re:Zero kara Ha...katsu | Re:Zero kara Ha...Movie | Shigatsu wa Kim...o Uso | Shingeki no Kyojin |
 | :---: | :---: | :---: | :---: |
-| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.webp) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
+| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
 
 </div>
 
@@ -256,7 +257,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shingeki no Kyo...son 2 | Shingeki no Kyo...son 3 | Shingeki no Kyo...eason | Shingeki no Kyo...art 2 |
 | :---: | :---: | :---: | :---: |
-| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.webp) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.webp) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.webp) |
+| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.webp) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.webp) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
 
 </div>
 
@@ -264,7 +265,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Onlin...nline | Sword Art Online II | Sword Art Onlin...ation | Sword Art Onlin...world |
 | :---: | :---: | :---: | :---: |
-| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.webp) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
+| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.jpg) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
 
 </div>
 
@@ -280,7 +281,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Tokyo Revengers | Tokyo Revengers...n-hen | Tomodachi Game | Violet Evergard...ngyou |
 | :---: | :---: | :---: | :---: |
-| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.webp) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
+| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.webp) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.webp) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
 
 </div>
 
@@ -288,7 +289,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Violet Evergard...Movie | Violet Evergard...Darou | Wind Breaker | Yakusoku no Nev...rland |
 | :---: | :---: | :---: | :---: |
-| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.webp) |
+| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) |
 
 </div>
 
@@ -336,7 +337,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Trigun Stampede | Tsuki ga Michib...uchuu |
 | :---: | :---: |
-| ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.webp) |
+| ![Trigun Stampede](https://cdn.myanimelist.net/images/anime/1426/129194.jpg) | ![Tsuki ga Michibiku Isekai Douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.jpg) |
 
 </div>
 
@@ -506,7 +507,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-> _Last Updated: 2024-09-01 13:46:53_
+> _Last Updated: 2024-09-01 13:52:24_
 
 </div>
 
