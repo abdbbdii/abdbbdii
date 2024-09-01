@@ -117,7 +117,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | 91 Days | Akame ga Kill! | Boku no Hero Ac...demia | Chuunibyou demo...itai! |
 | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.webp) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
 
 </div>
 
@@ -149,7 +149,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kono Subarashii...wo! 2 | Kotonoha no Niwa |
 | :---: | :---: | :---: | :---: |
-| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
+| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.webp) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
 
 </div>
 
@@ -157,7 +157,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ninja Kamui | Omoide no Marnie | Shikanoko Nokon...antan | Shin no Nakama ...shita |
 | :---: | :---: | :---: | :---: |
-| ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.webp) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) |
+| ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) | ![Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://cdn.myanimelist.net/images/anime/1723/117854.jpg) |
 
 </div>
 
@@ -257,7 +257,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shingeki no Kyo...son 2 | Shingeki no Kyo...son 3 | Shingeki no Kyo...eason | Shingeki no Kyo...art 2 |
 | :---: | :---: | :---: | :---: |
-| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.jpg) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.webp) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.webp) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
+| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.jpg) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.webp) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
 
 </div>
 
@@ -507,7 +507,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_14:09:32-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme)
+[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_14:12:32-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme)
 
 </div>
 
