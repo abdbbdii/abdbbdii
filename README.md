@@ -359,7 +359,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Planet of Lana | Little Nightmares II | Ori and the Wil...Wisps | Gris |
 | :---: | :---: | :---: | :---: |
-| ![Planet of Lana](https://media.rawg.io/media/crop/400/600/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/400/600/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/400/600/games/718/71891d2484a592d871e91dc826707e1c.jpg) | ![Gris](https://media.rawg.io/media/crop/400/600/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) |
+| ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) | ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) |
 
 </div>
 
@@ -367,7 +367,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Minecraft: Stor...n Two | Little Nightmares | What Remains of...Finch | INSIDE |
 | :---: | :---: | :---: | :---: |
-| ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/400/600/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/400/600/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/400/600/games/34e/34e100b1f648de99f32d477065f04653.jpg) | ![INSIDE](https://media.rawg.io/media/crop/400/600/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) |
+| ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) | ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) |
 
 </div>
 
@@ -375,7 +375,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ori and the Bli...ition | Minecraft: Stor... Mode | BADLAND: Game o...ition | Grand Theft Auto V |
 | :---: | :---: | :---: | :---: |
-| ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/400/600/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/400/600/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/400/600/games/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/400/600/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
+| ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/games/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
 
 </div>
 
@@ -383,7 +383,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | FEZ | Portal 2 | Limbo | Assassin's Creed II |
 | :---: | :---: | :---: | :---: |
-| ![FEZ](https://media.rawg.io/media/crop/400/600/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/400/600/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/400/600/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) | ![Assassin's Creed II](https://media.rawg.io/media/crop/400/600/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) |
+| ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) | ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) |
 
 </div>
 
@@ -391,7 +391,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Portal | Need for Speed:...und 2 | Grand Theft Aut...dreas | Grand Theft Aut... City |
 | :---: | :---: | :---: | :---: |
-| ![Portal](https://media.rawg.io/media/crop/400/600/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/400/600/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) | ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/400/600/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/400/600/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) |
+| ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) | ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) |
 
 </div>
 
@@ -399,7 +399,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Super Mario Bros. |
 | :---: |
-| ![Super Mario Bros.](https://media.rawg.io/media/crop/400/600/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
+| ![Super Mario Bros.](https://media.rawg.io/media/crop/600/400/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
 
 </div>
 
@@ -411,7 +411,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Stray | Valorant | Celeste | Minecraft |
 | :---: | :---: | :---: | :---: |
-| ![Stray](https://media.rawg.io/media/crop/400/600/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/400/600/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/400/600/games/594/59487800889ebac294c7c2c070d02356.jpg) | ![Minecraft](https://media.rawg.io/media/crop/400/600/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
+| ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) | ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
 
 </div>
 
@@ -423,7 +423,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Hollow Knight |
 | :---: |
-| ![Hollow Knight](https://media.rawg.io/media/crop/400/600/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) |
+| ![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) |
 
 </div>
 
@@ -435,7 +435,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Somerville | Cuphead: The De...ourse | Unravel | The Swapper |
 | :---: | :---: | :---: | :---: |
-| ![Somerville](https://media.rawg.io/media/crop/400/600/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/400/600/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Unravel](https://media.rawg.io/media/crop/400/600/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![The Swapper](https://media.rawg.io/media/crop/400/600/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
+| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/600/400/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
 
 </div>
 
@@ -443,7 +443,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Don't Starve | Need For Speed:...anted | Super Mario Wor...nce 2 | Super Mario Advance |
 | :---: | :---: | :---: | :---: |
-| ![Don't Starve](https://media.rawg.io/media/crop/400/600/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/400/600/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) | ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/400/600/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/400/600/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) |
+| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) | ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/600/400/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/600/400/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) |
 
 </div>
 
@@ -451,7 +451,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Super Mario Wor...sland | Super Mario World |
 | :---: | :---: |
-| ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/400/600/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) | ![Super Mario World](https://media.rawg.io/media/crop/400/600/games/3bb/3bb2c8d774c3a83eb2c17d0d3d51f020.jpg) |
+| ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/600/400/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) | ![Super Mario World](https://media.rawg.io/media/crop/600/400/games/3bb/3bb2c8d774c3a83eb2c17d0d3d51f020.jpg) |
 
 </div>
 
@@ -490,7 +490,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-> _Last Updated: 2024-09-01 05:12:19_
+> _Last Updated: 2024-09-01 05:12:46_
 
 </div>
 
