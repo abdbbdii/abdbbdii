@@ -207,7 +207,7 @@ def make_markdown():
     # md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
-    md.write("> _Last Updated: " + str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")) + "_")
+    md.write(f"[![Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme)")
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
