@@ -116,7 +116,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | 91 Days | Akame ga Kill! | Boku no Hero Ac...demia | Chuunibyou demo...itai! |
 | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.webp) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.webp) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.webp) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
 
 </div>
 
@@ -148,7 +148,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kono Subarashii...wo! 2 | Kotonoha no Niwa | Ninja Kamui | Omoide no Marnie |
 | :---: | :---: | :---: | :---: |
-| ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.webp) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) | ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) |
+| ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.webp) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.webp) | ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.jpg) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg) |
 
 </div>
 
@@ -192,7 +192,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Death Note: Rewrite | Dororo | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui |
 | :---: | :---: | :---: | :---: |
-| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.webp) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.webp) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) |
+| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.webp) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) |
 
 </div>
 
@@ -200,7 +200,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie | Jujutsu Kaisen ...eason |
 | :---: | :---: | :---: | :---: |
-| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
+| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.webp) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
 
 </div>
 
@@ -280,7 +280,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Violet Evergard...ngyou | Violet Evergard...Movie | Violet Evergard...Darou | Wind Breaker |
 | :---: | :---: | :---: | :---: |
-| ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) | ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) |
+| ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) | ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.webp) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) |
 
 </div>
 
@@ -300,7 +300,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ao no Exorcist | Fruits Basket 1...eason | Kaguya-sama wa ...ousen | Kaguya-sama wa ...ousen |
 | :---: | :---: | :---: | :---: |
-| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.webp) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.jpg) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.webp) |
+| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.webp) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.webp) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.webp) |
 
 </div>
 
@@ -375,7 +375,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ori and the Bli...ition | Minecraft: Stor... Mode | BADLAND: Game o...ition | Grand Theft Auto V |
 | :---: | :---: | :---: | :---: |
-| ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/games/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
+| ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/screenshots/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
 
 </div>
 
@@ -490,7 +490,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-> _Last Updated: 2024-09-01 05:12:46_
+> _Last Updated: 2024-09-01 05:16:45_
 
 </div>
 

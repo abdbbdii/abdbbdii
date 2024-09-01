@@ -135,7 +135,7 @@ def get_games(username):
                 games.append(
                     {
                         "Title": ABDGHMD._start_end(game["name"], max=20),
-                        "Poster": f"![{game['name']}]({'https://media.rawg.io/media/crop/600/400/games/'+ '/'.join(game['background_image'].split("/")[-2:])})",
+                        "Poster": f"![{game['name']}]({'https://media.rawg.io/media/crop/600/400/'+ '/'.join(game['background_image'].split("/")[-3:])})",
                     }
                 )
             if r.get("next") is None:
