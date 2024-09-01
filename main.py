@@ -116,6 +116,41 @@ def get_anime(username):
     return str(md)
 
 
+def get_games(username):
+    md = ABDGHMD()
+    statuses = [
+        "beaten",
+        "playing",
+        "yet",
+        "toplay",
+        "dropped",
+        "owned",
+    ]
+    for status in statuses:
+        games = []
+        i = 1
+        while True:
+            r = requests.get(f"https://api.rawg.io/api/users/{username}/games", params={"page": i, "statuses": status, "page_size": 100, "ordering": "-released"}).json()
+            for game in r["results"]:
+                games.append(
+                    {
+                        "Title": ABDGHMD._start_end(game["name"], max=20),
+                        "Poster": f"![{game['name']}]({'https://media.rawg.io/media/crop/400/600/games/'+ '/'.join(game['background_image'].split("/")[-2:])})",
+                    }
+                )
+            if r.get("next") is None:
+                break
+            i += 1
+        if not games:
+            continue
+        temp_tables = ABDGHMD()
+        max_len = 4
+        for i in range(0, len(games), max_len):
+            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(games[i : i + max_len]), centered=True))
+        md.write(str(temp_tables), centered=False, summary=status.title())
+    return str(md)
+
+
 def get_code_buddies(code_buddies):
     buddies = []
     for buddy in code_buddies:
@@ -165,6 +200,8 @@ def make_markdown():
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("My Anime List"))
     md.write(get_anime("abdbbdii"), centered=False)
+    md.write(ABDGHMD.heading("My Game List"))
+    md.write(get_games("abdbbdii"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
     # md.write(ABDGHMD.heading("Connect with Me"))
