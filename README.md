@@ -149,7 +149,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kono Subarashii...wo! 2 | Kotonoha no Niwa |
 | :---: | :---: | :---: | :---: |
-| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.webp) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
+| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.webp) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.webp) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
 
 </div>
 
@@ -165,7 +165,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shinchou Yuusha...ugiru | Tenkuu no Shiro...aputa | Tensei shitara ...a Ken | Tonari no Kaibu...u-kun |
 | :---: | :---: | :---: | :---: |
-| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.webp) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.webp) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) |
+| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.webp) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) |
 
 </div>
 
@@ -193,7 +193,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Boku no Kokoro ...Yatsu | Byousoku 5 Cent...meter | Chainsaw Man | Dark Gathering |
 | :---: | :---: | :---: | :---: |
-| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.webp) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.webp) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
+| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.webp) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
 
 </div>
 
@@ -507,7 +507,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_14:22:59-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme)
+[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_14:26:39-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme)
 
 </div>
 
