@@ -117,7 +117,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | 91 Days | Akame ga Kill! | Boku no Hero Ac...demia | Chuunibyou demo...itai! |
 | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.webp) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.webp) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.webp) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
 
 </div>
 
@@ -133,7 +133,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Haikyuu!! | Hal | Horimiya | Howl no Ugoku Shiro |
 | :---: | :---: | :---: | :---: |
-| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.jpg) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
+| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
 
 </div>
 
@@ -141,7 +141,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kage no Jitsury...u-hen | Kaijuu 8-gou Movie | Kengan Ashura Part 2 | Kimitachi wa Do...ru ka |
 | :---: | :---: | :---: | :---: |
-| ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.jpg) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.jpg) |
+| ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.webp) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.jpg) |
 
 </div>
 
@@ -149,7 +149,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kono Subarashii...wo! 2 | Kotonoha no Niwa |
 | :---: | :---: | :---: | :---: |
-| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.webp) |
+| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.webp) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.webp) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.webp) |
 
 </div>
 
@@ -165,7 +165,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shinchou Yuusha...ugiru | Tenkuu no Shiro...aputa | Tensei shitara ...a Ken | Tonari no Kaibu...u-kun |
 | :---: | :---: | :---: | :---: |
-| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.webp) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) |
+| ![Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg) | ![Tenkuu no Shiro Laputa](https://cdn.myanimelist.net/images/anime/5/37799.jpg) | ![Tensei shitara Slime Datta Ken](https://cdn.myanimelist.net/images/anime/1069/123309.jpg) | ![Tonari no Kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg) |
 
 </div>
 
@@ -173,7 +173,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Umi ga Kikoeru |
 | :---: |
-| ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.webp) |
+| ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
 
 </div>
 
@@ -185,7 +185,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ano Hi Mita Han...Movie | Ansatsu Kyoushitsu | Ansatsu Kyoushi...eason | Bleach Movie 3:... Yobu |
 | :---: | :---: | :---: | :---: |
-| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg) |
+| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.webp) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg) |
 
 </div>
 
@@ -193,7 +193,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Boku no Kokoro ...Yatsu | Byousoku 5 Cent...meter | Chainsaw Man | Dark Gathering |
 | :---: | :---: | :---: | :---: |
-| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.webp) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.webp) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
+| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
 
 </div>
 
@@ -201,7 +201,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Death Note: Rewrite | Dororo | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui |
 | :---: | :---: | :---: | :---: |
-| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.webp) |
+| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) |
 
 </div>
 
@@ -209,7 +209,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie | Jujutsu Kaisen ...eason |
 | :---: | :---: | :---: | :---: |
-| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.webp) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
+| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
 
 </div>
 
@@ -225,7 +225,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kimetsu no Yaib...u-hen | Kimi no Suizou ...betai | Koe no Katachi | Mushoku Tensei:... Dasu |
 | :---: | :---: | :---: | :---: |
-| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.webp) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.webp) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.webp) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) |
+| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.jpg) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.webp) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.webp) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) |
 
 </div>
 
@@ -233,7 +233,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Nakitai Watashi...aburu | Nichijou | One Punch Man 2...eason | One Punch Man 2...cials |
 | :---: | :---: | :---: | :---: |
-| ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.webp) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season](https://cdn.myanimelist.net/images/anime/1247/122044.jpg) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.jpg) |
+| ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.webp) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season](https://cdn.myanimelist.net/images/anime/1247/122044.webp) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.webp) |
 
 </div>
 
@@ -241,7 +241,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | One Punch Man S...cials | Ore dake Level ...a Ken | Owari no Seraph | Owari no Seraph...n-hen |
 | :---: | :---: | :---: | :---: |
-| ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) | ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.webp) |
+| ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) | ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.webp) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.webp) |
 
 </div>
 
@@ -249,7 +249,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Re:Zero kara Ha...katsu | Re:Zero kara Ha...Movie | Shigatsu wa Kim...o Uso | Shingeki no Kyojin |
 | :---: | :---: | :---: | :---: |
-| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.webp) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
+| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.webp) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.webp) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
 
 </div>
 
@@ -257,7 +257,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shingeki no Kyo...son 2 | Shingeki no Kyo...son 3 | Shingeki no Kyo...eason | Shingeki no Kyo...art 2 |
 | :---: | :---: | :---: | :---: |
-| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.webp) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.webp) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
+| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.webp) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
 
 </div>
 
@@ -265,7 +265,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Onlin...nline | Sword Art Online II | Sword Art Onlin...ation | Sword Art Onlin...world |
 | :---: | :---: | :---: | :---: |
-| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.jpg) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.webp) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
+| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.jpg) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.webp) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.webp) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
 
 </div>
 
@@ -273,7 +273,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Onlin...eason | Tenki no Ko | Tokyo Ghoul:re | Tokyo Ghoul:re ...eason |
 | :---: | :---: | :---: | :---: |
-| ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.webp) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.jpg) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) |
+| ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.webp) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.jpg) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.webp) |
 
 </div>
 
@@ -281,7 +281,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Tokyo Revengers | Tokyo Revengers...n-hen | Tomodachi Game | Violet Evergard...ngyou |
 | :---: | :---: | :---: | :---: |
-| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.webp) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
+| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
 
 </div>
 
@@ -289,7 +289,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Violet Evergard...Movie | Violet Evergard...Darou | Wind Breaker | Yakusoku no Nev...rland |
 | :---: | :---: | :---: | :---: |
-| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) |
+| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.webp) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.webp) |
 
 </div>
 
@@ -297,7 +297,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Youkoso Jitsury...tsu e | Youkoso Jitsury...eason |
 | :---: | :---: |
-| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.jpg) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
+| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.webp) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
 
 </div>
 
@@ -309,7 +309,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ao no Exorcist | Fruits Basket 1...eason | Kaguya-sama wa ...ousen | Kaguya-sama wa ...ousen |
 | :---: | :---: | :---: | :---: |
-| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.webp) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.webp) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.webp) |
+| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.jpg) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg) |
 
 </div>
 
@@ -329,7 +329,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Cyberpunk: Edge...nners | Elfen Lied | Sousou no Frieren | Tekken: Bloodline |
 | :---: | :---: | :---: | :---: |
-| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.jpg) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) |
+| ![Cyberpunk: Edgerunners](https://cdn.myanimelist.net/images/anime/1818/126435.jpg) | ![Elfen Lied](https://cdn.myanimelist.net/images/anime/1780/121555.jpg) | ![Sousou no Frieren](https://cdn.myanimelist.net/images/anime/1015/138006.webp) | ![Tekken: Bloodline](https://cdn.myanimelist.net/images/anime/1842/127170.jpg) |
 
 </div>
 
@@ -349,7 +349,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiniro Mosaic | Kusuriya no Hit...igoto | Tokyo Revengers...u-hen |
 | :---: | :---: | :---: |
-| ![Kiniro Mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.webp) | ![Kusuriya no Hitorigoto](https://cdn.myanimelist.net/images/anime/1708/138033.webp) | ![Tokyo Revengers: Tenjiku-hen](https://cdn.myanimelist.net/images/anime/1853/139843.jpg) |
+| ![Kiniro Mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.jpg) | ![Kusuriya no Hitorigoto](https://cdn.myanimelist.net/images/anime/1708/138033.jpg) | ![Tokyo Revengers: Tenjiku-hen](https://cdn.myanimelist.net/images/anime/1853/139843.webp) |
 
 </div>
 
@@ -507,7 +507,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_15:23:48-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--01_16:40:04-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
