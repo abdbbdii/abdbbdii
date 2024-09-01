@@ -117,7 +117,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | 91 Days | Akame ga Kill! | Boku no Hero Ac...demia | Chuunibyou demo...itai! |
 | :---: | :---: | :---: | :---: |
-| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.jpg) |
+| ![91 Days](https://cdn.myanimelist.net/images/anime/13/80515.jpg) | ![Akame ga Kill!](https://cdn.myanimelist.net/images/anime/1429/95946.jpg) | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.webp) |
 
 </div>
 
@@ -133,7 +133,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Haikyuu!! | Hal | Horimiya | Howl no Ugoku Shiro |
 | :---: | :---: | :---: | :---: |
-| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
+| ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.jpg) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.webp) | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) |
 
 </div>
 
@@ -141,7 +141,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kage no Jitsury...u-hen | Kaijuu 8-gou Movie | Kengan Ashura Part 2 | Kimitachi wa Do...ru ka |
 | :---: | :---: | :---: | :---: |
-| ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.jpg) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.webp) |
+| ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.webp) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1835/144661.jpg) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.jpg) | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.jpg) |
 
 </div>
 
@@ -149,7 +149,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kono Subarashii...wo! 2 | Kotonoha no Niwa |
 | :---: | :---: | :---: | :---: |
-| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.webp) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.webp) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg) |
+| ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.webp) | ![Kono Subarashii Sekai ni Shukufuku wo! 2](https://cdn.myanimelist.net/images/anime/2/83188.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.webp) |
 
 </div>
 
@@ -173,7 +173,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Umi ga Kikoeru |
 | :---: |
-| ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.jpg) |
+| ![Umi ga Kikoeru](https://cdn.myanimelist.net/images/anime/1498/131411.webp) |
 
 </div>
 
@@ -185,7 +185,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ano Hi Mita Han...Movie | Ansatsu Kyoushitsu | Ansatsu Kyoushi...eason | Bleach Movie 3:... Yobu |
 | :---: | :---: | :---: | :---: |
-| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.webp) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg) |
+| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.webp) |
 
 </div>
 
@@ -193,7 +193,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Boku no Kokoro ...Yatsu | Byousoku 5 Cent...meter | Chainsaw Man | Dark Gathering |
 | :---: | :---: | :---: | :---: |
-| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.webp) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
+| ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.webp) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.jpg) | ![Dark Gathering](https://cdn.myanimelist.net/images/anime/1346/138731.jpg) |
 
 </div>
 
@@ -201,7 +201,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Death Note: Rewrite | Dororo | Dr. Stone: New ...art 2 | Dr. Stone: Ryuusui |
 | :---: | :---: | :---: | :---: |
-| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.jpg) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) |
+| ![Death Note: Rewrite](https://cdn.myanimelist.net/images/anime/13/8518.webp) | ![Dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg) | ![Dr. Stone: New World Part 2](https://cdn.myanimelist.net/images/anime/1236/138696.webp) | ![Dr. Stone: Ryuusui](https://cdn.myanimelist.net/images/anime/1071/124921.jpg) |
 
 </div>
 
@@ -209,7 +209,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Dr. Stone: Ston... Wars | Jujutsu Kaisen | Jujutsu Kaisen ...Movie | Jujutsu Kaisen ...eason |
 | :---: | :---: | :---: | :---: |
-| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
+| ![Dr. Stone: Stone Wars](https://cdn.myanimelist.net/images/anime/1711/110614.webp) | ![Jujutsu Kaisen](https://cdn.myanimelist.net/images/anime/1171/109222.jpg) | ![Jujutsu Kaisen 0 Movie](https://cdn.myanimelist.net/images/anime/1121/119044.jpg) | ![Jujutsu Kaisen 2nd Season](https://cdn.myanimelist.net/images/anime/1792/138022.jpg) |
 
 </div>
 
@@ -217,7 +217,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kimetsu no Yaiba | Kimetsu no Yaib...a-hen | Kimetsu no Yaib...o-hen | Kimetsu no Yaib...o-hen |
 | :---: | :---: | :---: | :---: |
-| ![Kimetsu no Yaiba](https://cdn.myanimelist.net/images/anime/1286/99889.jpg) | ![Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://cdn.myanimelist.net/images/anime/1704/106947.jpg) | ![Kimetsu no Yaiba: Hashira Geiko-hen](https://cdn.myanimelist.net/images/anime/1565/142711.jpg) | ![Kimetsu no Yaiba: Katanakaji no Sato-hen](https://cdn.myanimelist.net/images/anime/1765/135099.webp) |
+| ![Kimetsu no Yaiba](https://cdn.myanimelist.net/images/anime/1286/99889.webp) | ![Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://cdn.myanimelist.net/images/anime/1704/106947.jpg) | ![Kimetsu no Yaiba: Hashira Geiko-hen](https://cdn.myanimelist.net/images/anime/1565/142711.jpg) | ![Kimetsu no Yaiba: Katanakaji no Sato-hen](https://cdn.myanimelist.net/images/anime/1765/135099.jpg) |
 
 </div>
 
@@ -225,7 +225,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kimetsu no Yaib...u-hen | Kimi no Suizou ...betai | Koe no Katachi | Mushoku Tensei:... Dasu |
 | :---: | :---: | :---: | :---: |
-| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.webp) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) |
+| ![Kimetsu no Yaiba: Yuukaku-hen](https://cdn.myanimelist.net/images/anime/1908/120036.webp) | ![Kimi no Suizou wo Tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg) | ![Koe no Katachi](https://cdn.myanimelist.net/images/anime/1122/96435.webp) | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) |
 
 </div>
 
@@ -233,7 +233,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Nakitai Watashi...aburu | Nichijou | One Punch Man 2...eason | One Punch Man 2...cials |
 | :---: | :---: | :---: | :---: |
-| ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season](https://cdn.myanimelist.net/images/anime/1247/122044.jpg) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.webp) |
+| ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.webp) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) | ![One Punch Man 2nd Season](https://cdn.myanimelist.net/images/anime/1247/122044.jpg) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.jpg) |
 
 </div>
 
@@ -241,7 +241,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | One Punch Man S...cials | Ore dake Level ...a Ken | Owari no Seraph | Owari no Seraph...n-hen |
 | :---: | :---: | :---: | :---: |
-| ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) | ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.webp) |
+| ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.webp) | ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.webp) |
 
 </div>
 
@@ -249,7 +249,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Re:Zero kara Ha...katsu | Re:Zero kara Ha...Movie | Shigatsu wa Kim...o Uso | Shingeki no Kyojin |
 | :---: | :---: | :---: | :---: |
-| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.webp) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.webp) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
+| ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.webp) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg) |
 
 </div>
 
@@ -257,7 +257,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Shingeki no Kyo...son 2 | Shingeki no Kyo...son 3 | Shingeki no Kyo...eason | Shingeki no Kyo...art 2 |
 | :---: | :---: | :---: | :---: |
-| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.jpg) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) |
+| ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.webp) | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.webp) | ![Shingeki no Kyojin: The Final Season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.webp) |
 
 </div>
 
@@ -265,7 +265,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Onlin...nline | Sword Art Online II | Sword Art Onlin...ation | Sword Art Onlin...world |
 | :---: | :---: | :---: | :---: |
-| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.jpg) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
+| ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.webp) | ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.webp) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg) |
 
 </div>
 
@@ -273,7 +273,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Sword Art Onlin...eason | Tenki no Ko | Tokyo Ghoul:re | Tokyo Ghoul:re ...eason |
 | :---: | :---: | :---: | :---: |
-| ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.webp) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.webp) |
+| ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg) | ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.webp) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) |
 
 </div>
 
@@ -281,7 +281,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Tokyo Revengers | Tokyo Revengers...n-hen | Tomodachi Game | Violet Evergard...ngyou |
 | :---: | :---: | :---: | :---: |
-| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
+| ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.webp) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.jpg) | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.jpg) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg) |
 
 </div>
 
@@ -289,7 +289,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Violet Evergard...Movie | Violet Evergard...Darou | Wind Breaker | Yakusoku no Nev...rland |
 | :---: | :---: | :---: | :---: |
-| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.webp) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.webp) |
+| ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) | ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) |
 
 </div>
 
@@ -297,7 +297,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Youkoso Jitsury...tsu e | Youkoso Jitsury...eason |
 | :---: | :---: |
-| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.webp) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
+| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.jpg) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.jpg) |
 
 </div>
 
@@ -309,7 +309,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ao no Exorcist | Fruits Basket 1...eason | Kaguya-sama wa ...ousen | Kaguya-sama wa ...ousen |
 | :---: | :---: | :---: | :---: |
-| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.webp) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.jpg) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.webp) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg) |
+| ![Ao no Exorcist](https://cdn.myanimelist.net/images/anime/10/75195.webp) | ![Fruits Basket 1st Season](https://cdn.myanimelist.net/images/anime/1447/99827.webp) | ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1295/106551.jpg) | ![Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg) |
 
 </div>
 
@@ -349,7 +349,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Kiniro Mosaic | Kusuriya no Hit...igoto | Tokyo Revengers...u-hen |
 | :---: | :---: | :---: |
-| ![Kiniro Mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.jpg) | ![Kusuriya no Hitorigoto](https://cdn.myanimelist.net/images/anime/1708/138033.jpg) | ![Tokyo Revengers: Tenjiku-hen](https://cdn.myanimelist.net/images/anime/1853/139843.jpg) |
+| ![Kiniro Mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.webp) | ![Kusuriya no Hitorigoto](https://cdn.myanimelist.net/images/anime/1708/138033.jpg) | ![Tokyo Revengers: Tenjiku-hen](https://cdn.myanimelist.net/images/anime/1853/139843.jpg) |
 
 </div>
 
@@ -366,49 +366,65 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 <div align="center">
 
-| Planet of Lana | Little Nightmares II | Ori and the Wil...Wisps | Gris |
-| :---: | :---: | :---: | :---: |
-| ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) | ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) |
-
-</div>
-
-<div align="center">
-
-| Among Us | Asphalt 9: Legends | Minecraft: Stor...n Two | Little Nightmares |
-| :---: | :---: | :---: | :---: |
-| ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) | ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) |
-
-</div>
-
-<div align="center">
-
-| What Remains of...Finch | INSIDE | Ori and the Bli...ition | Minecraft: Stor... Mode |
-| :---: | :---: | :---: | :---: |
-| ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) | ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) | ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) |
-
-</div>
-
-<div align="center">
-
-| BADLAND: Game o...ition | Grand Theft Auto V | FEZ | Portal 2 |
-| :---: | :---: | :---: | :---: |
-| ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/screenshots/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) | ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) |
-
-</div>
-
-<div align="center">
-
-| Limbo | Assassin's Creed II | Portal | Need for Speed:...und 2 |
-| :---: | :---: | :---: | :---: |
-| ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) | ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) | ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) |
-
-</div>
-
-<div align="center">
-
-| Grand Theft Aut...dreas | Grand Theft Aut... City | Super Mario Bros. |
+| Planet of Lana | Little Nightmares II | Ori and the Wil...Wisps |
 | :---: | :---: | :---: |
-| ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) | ![Super Mario Bros.](https://media.rawg.io/media/crop/600/400/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
+| ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) |
+
+</div>
+
+<div align="center">
+
+| Gris | Among Us | Asphalt 9: Legends |
+| :---: | :---: | :---: |
+| ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) | ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) |
+
+</div>
+
+<div align="center">
+
+| Minecraft: Stor...n Two | Little Nightmares | What Remains of...Finch |
+| :---: | :---: | :---: |
+| ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) |
+
+</div>
+
+<div align="center">
+
+| INSIDE | Ori and the Bli...ition | Minecraft: Stor... Mode |
+| :---: | :---: | :---: |
+| ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) | ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) |
+
+</div>
+
+<div align="center">
+
+| BADLAND: Game o...ition | Grand Theft Auto V | FEZ |
+| :---: | :---: | :---: |
+| ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/screenshots/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) | ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) |
+
+</div>
+
+<div align="center">
+
+| Portal 2 | Limbo | Assassin's Creed II |
+| :---: | :---: | :---: |
+| ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) | ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) |
+
+</div>
+
+<div align="center">
+
+| Portal | Need for Speed:...und 2 | Grand Theft Aut...dreas |
+| :---: | :---: | :---: |
+| ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) | ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) |
+
+</div>
+
+<div align="center">
+
+| Grand Theft Aut... City | Super Mario Bros. |
+| :---: | :---: |
+| ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) | ![Super Mario Bros.](https://media.rawg.io/media/crop/600/400/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
 
 </div>
 
@@ -418,9 +434,17 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 <div align="center">
 
-| Stray | Valorant | Celeste | Minecraft |
-| :---: | :---: | :---: | :---: |
-| ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) | ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
+| Stray | Valorant | Celeste |
+| :---: | :---: | :---: |
+| ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) |
+
+</div>
+
+<div align="center">
+
+| Minecraft |
+| :---: |
+| ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
 
 </div>
 
@@ -442,25 +466,33 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 <div align="center">
 
-| Somerville | Cuphead: The De...ourse | Need for Speed ...yback | Unravel |
-| :---: | :---: | :---: | :---: |
-| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/600/400/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) | ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) |
+| Somerville | Cuphead: The De...ourse | Need for Speed ...yback |
+| :---: | :---: | :---: |
+| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/600/400/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) |
 
 </div>
 
 <div align="center">
 
-| Asphalt 8: Airborne | The Swapper | Don't Starve | Need for Speed:... Game |
-| :---: | :---: | :---: | :---: |
-| ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) | ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need for Speed: Most Wanted - A Criterion Game](https://media.rawg.io/media/crop/600/400/games/228/228e21229213695c8f6697a6b3387a2b.jpg) |
+| Unravel | Asphalt 8: Airborne | The Swapper |
+| :---: | :---: | :---: |
+| ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
 
 </div>
 
 <div align="center">
 
-| Need For Speed:...anted | Super Mario Wor...nce 2 | Super Mario Advance | Super Mario Wor...sland |
-| :---: | :---: | :---: | :---: |
-| ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) | ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/600/400/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/600/400/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) | ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/600/400/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) |
+| Don't Starve | Need for Speed:... Game | Need For Speed:...anted |
+| :---: | :---: | :---: |
+| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need for Speed: Most Wanted - A Criterion Game](https://media.rawg.io/media/crop/600/400/games/228/228e21229213695c8f6697a6b3387a2b.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) |
+
+</div>
+
+<div align="center">
+
+| Super Mario Wor...nce 2 | Super Mario Advance | Super Mario Wor...sland |
+| :---: | :---: | :---: |
+| ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/600/400/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/600/400/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) | ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/600/400/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) |
 
 </div>
 
@@ -507,7 +539,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-> _Last Updated: 2024-09-01 05:16:45_
+[![Update](https://img.shields.io/badge/Update-Last_Updated:_2024--09--02_00:44:03-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 

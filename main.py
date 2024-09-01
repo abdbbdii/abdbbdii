@@ -144,7 +144,7 @@ def get_games(username):
         if not games:
             continue
         temp_tables = ABDGHMD()
-        max_len = 4
+        max_len = 3
         for i in range(0, len(games), max_len):
             temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(games[i : i + max_len]), centered=True))
         md.write(str(temp_tables), centered=False, summary=status.title())
