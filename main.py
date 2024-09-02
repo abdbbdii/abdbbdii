@@ -20,12 +20,12 @@ class ABDGHMD:
     def __init__(self):
         self.md = ""
 
-    def write(self, text, centered=True, summary=""):
+    def write(self, text, centered=True, summary="", sep='\n\n'):
         if centered:
             self.md += '<div align="center">\n\n'
         if summary:
             self.md += f"<details><summary>{summary}</summary>\n\n"
-        self.md += text.strip() + "\n\n"
+        self.md += text.strip() + sep
         if summary:
             self.md += "</details>\n\n"
         if centered:
@@ -70,17 +70,19 @@ class ABDGHMD:
         return [grouped_dict[key] for key in grouped_dict]
 
     @staticmethod
-    def table(data, centered=False):
+    def table(data, centered=False, header=True):
         """
         Creates a Markdown table from a list of lists.
         The first inner list is treated as the header.
         """
         if not data:
             return ""
-        header = f"| {' | '.join(data[0])} |\n"
+        head = f"| {' | '.join(data[0])} |\n"
         separator = "| " + " | ".join([":---:" if centered else "---" for _ in data[0]]) + " |\n"
         rows = "".join([f"| {' | '.join(row)} |\n" for row in data[1:]])
-        return header + separator + rows
+        if header:
+            return head + separator + rows
+        return head + rows
 
     @staticmethod
     def _start_end(text, max=20):
@@ -111,7 +113,7 @@ def get_anime(username):
         temp_tables = ABDGHMD()
         max_len = 4
         for i in range(0, len(animes), max_len):
-            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True))
+            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
         md.write(str(temp_tables), centered=False, summary=cat.replace("_", " ").title())
     return str(md)
 
@@ -146,7 +148,7 @@ def get_games(username):
         temp_tables = ABDGHMD()
         max_len = 3
         for i in range(0, len(games), max_len):
-            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(games[i : i + max_len]), centered=True))
+            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(games[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
         md.write(str(temp_tables), centered=False, summary=status.title())
     return str(md)
 
