@@ -4,6 +4,7 @@
         "Tools": [
             "![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=000000&logoColor=3776AB)",
             "![C/C++](https://img.shields.io/badge/C/C++-ffffff?logo=c%2B%2B&style=for-the-badge&color=000000&logoColor=00599C)",
+            "![C#](https://img.shields.io/badge/C%23-ffffff?logo=c-sharp&style=for-the-badge&color=000000&logoColor=239120)",
             "![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&style=for-the-badge&color=000000&logoColor=F7DF1E)",
             "![SQL](https://img.shields.io/badge/SQL-ffffff?logo=sql&style=for-the-badge&color=000000&logoColor=003B57)"
         ]
@@ -12,6 +13,7 @@
         "Category": "Markup  Languages",
         "Tools": [
             "![HTML](https://img.shields.io/badge/HTML-ffffff?logo=html5&style=for-the-badge&color=000000&logoColor=E34F26)",
+            "![XML](https://img.shields.io/badge/XML-ffffff?logo=xml&style=for-the-badge&color=000000&logoColor=FFA500)",
             "![Markdown](https://img.shields.io/badge/Markdown-ffffff?logo=markdown&style=for-the-badge&color=000000&logoColor=ffffff)",
             "![LaTeX](https://img.shields.io/badge/LaTeX-ffffff?logo=latex&style=for-the-badge&color=000000&logoColor=008080)"
         ]
@@ -45,12 +47,14 @@
             "![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&style=for-the-badge&color=000000&logoColor=ffffff)",
             "![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=ff4f4f)",
             "![Tkinter](https://img.shields.io/badge/Tkinter-ffffff?logo=tkinter&style=for-the-badge&color=000000&logoColor=ff4f4f)",
-            "![Flutter](https://img.shields.io/badge/Flutter-ffffff?logo=flutter&style=for-the-badge&color=000000&logoColor=02569B)",
-            "![Reflex](https://img.shields.io/badge/Reflex-ffffff?logo=reflex&style=for-the-badge&color=000000&logoColor=02569B)"
+            "![Flet](https://img.shields.io/badge/Flet-ffffff?logo=flet&style=for-the-badge&color=000000&logoColor=ff4f4f)",
+            "![Reflex](https://img.shields.io/badge/Reflex-ffffff?logo=reflex&style=for-the-badge&color=000000&logoColor=02569B)",
+            "![.NET](https://img.shields.io/badge/.NET-ffffff?logo=.net&style=for-the-badge&color=000000&logoColor=512BD4)",
+            "![Win UI 3](https://img.shields.io/badge/Win%20UI%203-ffffff?logo=winui&style=for-the-badge&color=000000&logoColor=5C2D91)"
         ]
     },
     {
-        "Category": "Deployment & Cloud",
+        "Category": "DevOps & CI/CD",
         "Tools": [
             "![Docker](https://img.shields.io/badge/Docker-ffffff?logo=docker&style=for-the-badge&color=000000&logoColor=2496ED)",
             "![Vercel](https://img.shields.io/badge/Vercel-ffffff?logo=vercel&style=for-the-badge&color=000000&logoColor=ffffff)",
