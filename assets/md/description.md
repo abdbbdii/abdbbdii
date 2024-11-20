@@ -1,1 +1,1 @@
-I’m a passionate software developer and tech enthusiast, with a deep focus on Python programming and creative design. My expertise lies in transforming ideas into reality through dynamic web applications and intuitive user interfaces. I’m constantly driven by the challenge of solving problems and exploring new technologies.
+I am a software developer and designer with expertise in building efficient, user-friendly applications across different platforms. With a focus on problem-solving and creative design, I enjoy crafting innovative solutions that make a difference.
