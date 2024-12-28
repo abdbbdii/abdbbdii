@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 import datetime
 
 
@@ -168,6 +169,15 @@ def get_code_buddies(code_buddies):
 
 
 def get_projects(username):
+
+    def snake_to_title(s: str) -> str:
+        s = s.replace("-", " ").replace("_", " ")
+        return ' '.join(word[0].upper() + word[1:] if word else '' for word in s.split(' '))
+
+
+    def camel_to_title(s: str) -> str:
+        return re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
+
     prefix = ":add"
     projects = []
     repos = GitHubAPI.get_repos(username)
@@ -175,7 +185,7 @@ def get_projects(username):
         if repo["description"] and repo["description"].strip().endswith(prefix):
             projects.append(
                 {
-                    "Project": f"[{repo['name']}]({repo['html_url']})",
+                    "Project": f"[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})",
                     "Description": repo["description"].rstrip(prefix).strip(),
                     "Created": repo["created_at"].split("T")[0],
                 }
@@ -210,7 +220,7 @@ def make_markdown():
     md.write(ABDGHMD.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdbbdii", "repo": "abdbbdii", "event": "update-readme", "redirect_uri": "https://github.com/abdbbdii"}).prepare().url
-    md.write(f"[![Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
+    md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
