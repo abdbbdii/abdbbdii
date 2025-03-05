@@ -171,8 +171,6 @@ def get_code_buddies(code_buddies):
 def get_projects(username):
 
     def snake_to_title(s: str) -> str:
-        if "LaTeX" in s:
-            return s
         s = s.replace("-", " ").replace("_", " ")
         return ' '.join(word[0].upper() + word[1:] if word else '' for word in s.split(' '))
 
@@ -182,15 +180,15 @@ def get_projects(username):
             return s
         return re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
 
-    prefix = ":add"
+    suffix = ":add"
     projects = []
     repos = GitHubAPI.get_repos(username)
     for repo in repos:
-        if repo["description"] and repo["description"].strip().endswith(prefix):
+        if repo["description"] and repo["description"].strip().endswith(suffix):
             projects.append(
                 {
                     "Project": f"[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})",
-                    "Description": repo["description"].rstrip(prefix).strip(),
+                    "Description": repo["description"].rstrip(suffix).strip(),
                     "Created": repo["created_at"].split("T")[0],
                 }
             )
