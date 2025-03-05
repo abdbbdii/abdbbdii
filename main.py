@@ -171,11 +171,15 @@ def get_code_buddies(code_buddies):
 def get_projects(username):
 
     def snake_to_title(s: str) -> str:
+        if "LaTeX" in s:
+            return s
         s = s.replace("-", " ").replace("_", " ")
         return ' '.join(word[0].upper() + word[1:] if word else '' for word in s.split(' '))
 
 
     def camel_to_title(s: str) -> str:
+        if "LaTeX" in s:
+            return s
         return re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
 
     prefix = ":add"
