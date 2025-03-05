@@ -61,7 +61,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [AI La Te X Helper](https://github.com/abdbbdii/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
+| [AI-LaTeX-Helper](https://github.com/abdbbdii/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
 | [Terminal Based Rich Text Editor](https://github.com/abdbbdii/Terminal-Based-Rich-Text-Editor) | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024-12-04 |
 | [Automated Menu Ordering System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024-11-21 |
 | [Portfolio](https://github.com/abdbbdii/portfolio) | Next.js personal portfolio | 2024-11-19 |
@@ -123,15 +123,15 @@ I am currently pursuing a degree at the University of Engineering and Technology
 | Boku no Hero Ac...demia | Bungou Stray Dogs | Chuunibyou demo...itai! | Code Geass: Han...louch |
 | ![Boku no Hero Academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg) | ![Bungou Stray Dogs](https://cdn.myanimelist.net/images/anime/3/79409.webp) | ![Chuunibyou demo Koi ga Shitai!](https://cdn.myanimelist.net/images/anime/1905/142840.webp) | ![Code Geass: Hangyaku no Lelouch](https://cdn.myanimelist.net/images/anime/1032/135088.jpg) |
 | Code Geass: Han...orium | Dead Dead Demon...ction | Death Parade | Devil May Cry |
-| ![Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium](https://cdn.myanimelist.net/images/anime/2/88062.webp) | ![Dead Dead Demons Dededede Destruction](https://cdn.myanimelist.net/images/anime/1848/140442.jpg) | ![Death Parade](https://cdn.myanimelist.net/images/anime/5/71553.webp) | ![Devil May Cry](https://cdn.myanimelist.net/images/anime/4/26417.jpg) |
+| ![Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium](https://cdn.myanimelist.net/images/anime/2/88062.webp) | ![Dead Dead Demons Dededede Destruction](https://cdn.myanimelist.net/images/anime/1848/140442.webp) | ![Death Parade](https://cdn.myanimelist.net/images/anime/5/71553.webp) | ![Devil May Cry](https://cdn.myanimelist.net/images/anime/4/26417.jpg) |
 | Gake no Ue no Ponyo | Haikyuu!! | Hal | Horimiya |
-| ![Gake no Ue no Ponyo](https://cdn.myanimelist.net/images/anime/1331/138727.webp) | ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.webp) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) |
+| ![Gake no Ue no Ponyo](https://cdn.myanimelist.net/images/anime/1331/138727.webp) | ![Haikyuu!!](https://cdn.myanimelist.net/images/anime/7/76014.jpg) | ![Hal](https://cdn.myanimelist.net/images/anime/6/46549.webp) | ![Horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg) |
 | Howl no Ugoku Shiro | Kage no Jitsury...u-hen | Kaijuu 8-gou Movie | Kengan Ashura Part 2 |
 | ![Howl no Ugoku Shiro](https://cdn.myanimelist.net/images/anime/1470/138723.jpg) | ![Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen](https://cdn.myanimelist.net/images/anime/1570/140518.jpg) | ![Kaijuu 8-gou Movie](https://cdn.myanimelist.net/images/anime/1127/146604.webp) | ![Kengan Ashura Part 2](https://cdn.myanimelist.net/images/anime/1546/102680.webp) |
 | Kimitachi wa Do...ru ka | Kiseijuu: Sei n...ritsu | Kobayashi-san C...ragon | Kotonoha no Niwa |
 | ![Kimitachi wa Dou Ikiru ka](https://cdn.myanimelist.net/images/anime/1126/139654.webp) | ![Kiseijuu: Sei no Kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.webp) | ![Kobayashi-san Chi no Maid Dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg) | ![Kotonoha no Niwa](https://cdn.myanimelist.net/images/anime/1597/112995.webp) |
 | Look Back | Mob Psycho 100:...kusha | Natsume Yuujinchou | NieR:Automata V...r1.1a |
-| ![Look Back](https://cdn.myanimelist.net/images/anime/1716/142633.webp) | ![Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha](https://cdn.myanimelist.net/images/anime/7/89331.webp) | ![Natsume Yuujinchou](https://cdn.myanimelist.net/images/anime/1681/108439.webp) | ![NieR:Automata Ver1.1a](https://cdn.myanimelist.net/images/anime/1399/128318.webp) |
+| ![Look Back](https://cdn.myanimelist.net/images/anime/1716/142633.webp) | ![Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha](https://cdn.myanimelist.net/images/anime/7/89331.webp) | ![Natsume Yuujinchou](https://cdn.myanimelist.net/images/anime/1681/108439.webp) | ![NieR:Automata Ver1.1a](https://cdn.myanimelist.net/images/anime/1399/128318.jpg) |
 | Ninja Kamui | Omoide no Marnie | Rurouni Kenshin...2023) | Shikanoko Nokon...antan |
 | ![Ninja Kamui](https://cdn.myanimelist.net/images/anime/1142/141351.webp) | ![Omoide no Marnie](https://cdn.myanimelist.net/images/anime/7/64293.webp) | ![Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://cdn.myanimelist.net/images/anime/1599/136532.webp) | ![Shikanoko Nokonoko Koshitantan](https://cdn.myanimelist.net/images/anime/1084/144617.jpg) |
 | Shin no Nakama ...shita | Shinchou Yuusha...ugiru | Shingeki no Kyo...eason | Spy x Family Mo...White |
@@ -147,7 +147,7 @@ I am currently pursuing a degree at the University of Engineering and Technology
 
 | Ano Hi Mita Han...Movie | Ansatsu Kyoushitsu | Ansatsu Kyoushi...eason | Bleach Movie 3:... Yobu |
 | :---: | :---: | :---: | :---: |
-| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.jpg) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.webp) |
+| ![Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg) | ![Ansatsu Kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg) | ![Ansatsu Kyoushitsu 2nd Season](https://cdn.myanimelist.net/images/anime/8/77966.webp) | ![Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu](https://cdn.myanimelist.net/images/anime/3/64689.webp) |
 | Blue Lock | Boku no Kokoro ...Yatsu | Byousoku 5 Cent...meter | Chainsaw Man |
 | ![Blue Lock](https://cdn.myanimelist.net/images/anime/1258/126929.jpg) | ![Boku no Kokoro no Yabai Yatsu](https://cdn.myanimelist.net/images/anime/1545/133887.jpg) | ![Byousoku 5 Centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg) | ![Chainsaw Man](https://cdn.myanimelist.net/images/anime/1806/126216.webp) |
 | Dandadan | Dark Gathering | Darling in the ...ranXX | Death Note: Rewrite |
@@ -163,25 +163,25 @@ I am currently pursuing a degree at the University of Engineering and Technology
 | Mushoku Tensei:... Dasu | Nakitai Watashi...aburu | Nanatsu no Taizai | Nanatsu no Taiz...ebito |
 | ![Mushoku Tensei: Isekai Ittara Honki Dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg) | ![Nakitai Watashi wa Neko wo Kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.webp) | ![Nanatsu no Taizai](https://cdn.myanimelist.net/images/anime/8/65409.jpg) | ![Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito](https://cdn.myanimelist.net/images/anime/1444/91899.webp) |
 | Nanatsu no Taiz...katsu | Nanatsu no Taiz...kirin | Nanatsu no Taiz...rushi | Nichijou |
-| ![Nanatsu no Taizai: Imashime no Fukkatsu](https://cdn.myanimelist.net/images/anime/11/90089.webp) | ![Nanatsu no Taizai: Kamigami no Gekirin](https://cdn.myanimelist.net/images/anime/1546/103418.jpg) | ![Nanatsu no Taizai: Seisen no Shirushi](https://cdn.myanimelist.net/images/anime/13/79331.jpg) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) |
+| ![Nanatsu no Taizai: Imashime no Fukkatsu](https://cdn.myanimelist.net/images/anime/11/90089.webp) | ![Nanatsu no Taizai: Kamigami no Gekirin](https://cdn.myanimelist.net/images/anime/1546/103418.webp) | ![Nanatsu no Taizai: Seisen no Shirushi](https://cdn.myanimelist.net/images/anime/13/79331.jpg) | ![Nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg) |
 | Oemojisangjuui | One Punch Man 2...eason | One Punch Man 2...cials | One Punch Man S...cials |
 | ![Oemojisangjuui](https://cdn.myanimelist.net/images/anime/1456/131788.webp) | ![One Punch Man 2nd Season](https://cdn.myanimelist.net/images/anime/1247/122044.webp) | ![One Punch Man 2nd Season Specials](https://cdn.myanimelist.net/images/anime/1618/103829.webp) | ![One Punch Man Specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg) |
 | Ore dake Level ...a Ken | Owari no Seraph | Owari no Seraph...n-hen | Re:Zero kara Ha...katsu |
-| ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.jpg) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.webp) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) |
+| ![Ore dake Level Up na Ken](https://cdn.myanimelist.net/images/anime/1801/142390.webp) | ![Owari no Seraph](https://cdn.myanimelist.net/images/anime/5/73474.webp) | ![Owari no Seraph: Nagoya Kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.jpg) | ![Re:Zero kara Hajimeru Isekai Seikatsu](https://cdn.myanimelist.net/images/anime/1522/128039.jpg) |
 | Re:Zero kara Ha...Movie | Shigatsu wa Kim...o Uso | Shingeki no Kyojin | Shingeki no Kyo...son 2 |
 | ![Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://cdn.myanimelist.net/images/anime/1599/106827.jpg) | ![Shigatsu wa Kimi no Uso](https://cdn.myanimelist.net/images/anime/1405/143284.jpg) | ![Shingeki no Kyojin](https://cdn.myanimelist.net/images/anime/10/47347.webp) | ![Shingeki no Kyojin Season 2](https://cdn.myanimelist.net/images/anime/4/84177.jpg) |
 | Shingeki no Kyo...son 3 | Shingeki no Kyo...art 2 | Sword Art Onlin...nline | Sword Art Onlin...ne II |
 | ![Shingeki no Kyojin Season 3](https://cdn.myanimelist.net/images/anime/1173/92110.webp) | ![Shingeki no Kyojin: The Final Season Part 2](https://cdn.myanimelist.net/images/anime/1948/120625.jpg) | ![Sword Art Online Alternative: Gun Gale Online](https://cdn.myanimelist.net/images/anime/1141/93288.webp) | ![Sword Art Online Alternative: Gun Gale Online II](https://cdn.myanimelist.net/images/anime/1335/145505.jpg) |
 | Sword Art Online II | Sword Art Onlin...ation | Sword Art Onlin...world | Sword Art Onlin...eason |
-| ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.webp) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.webp) | ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) |
+| ![Sword Art Online II](https://cdn.myanimelist.net/images/anime/1223/121999.jpg) | ![Sword Art Online: Alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg) | ![Sword Art Online: Alicization - War of Underworld](https://cdn.myanimelist.net/images/anime/1630/103417.webp) | ![Sword Art Online: Alicization - War of Underworld 2nd Season](https://cdn.myanimelist.net/images/anime/1438/105106.jpg) |
 | Tate no Yuusha ...agari | Tate no Yuusha ...son 3 | Tengoku Daimakyou | Tenki no Ko |
 | ![Tate no Yuusha no Nariagari](https://cdn.myanimelist.net/images/anime/1490/101365.webp) | ![Tate no Yuusha no Nariagari Season 3](https://cdn.myanimelist.net/images/anime/1317/139802.webp) | ![Tengoku Daimakyou](https://cdn.myanimelist.net/images/anime/1121/133132.jpg) | ![Tenki no Ko](https://cdn.myanimelist.net/images/anime/1880/101146.webp) |
 | Tokyo Ghoul:re | Tokyo Ghoul:re ...eason | Tokyo Revengers | Tokyo Revengers...n-hen |
-| ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.webp) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) | ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.webp) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.webp) |
+| ![Tokyo Ghoul:re](https://cdn.myanimelist.net/images/anime/1063/95086.webp) | ![Tokyo Ghoul:re 2nd Season](https://cdn.myanimelist.net/images/anime/1545/121995.jpg) | ![Tokyo Revengers](https://cdn.myanimelist.net/images/anime/1839/122012.jpg) | ![Tokyo Revengers: Seiya Kessen-hen](https://cdn.myanimelist.net/images/anime/1773/132313.webp) |
 | Tomodachi Game | Violet Evergard...ngyou | Violet Evergard...Movie | Violet Evergard...Darou |
 | ![Tomodachi Game](https://cdn.myanimelist.net/images/anime/1247/121345.webp) | ![Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.webp) | ![Violet Evergarden Movie](https://cdn.myanimelist.net/images/anime/1825/110716.webp) | ![Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg) |
 | Wind Breaker | Yakusoku no Nev...rland | Youkoso Jitsury...tsu e | Youkoso Jitsury...eason |
-| ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.webp) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.webp) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.webp) |
+| ![Wind Breaker](https://cdn.myanimelist.net/images/anime/1438/141816.jpg) | ![Yakusoku no Neverland](https://cdn.myanimelist.net/images/anime/1830/118780.jpg) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://cdn.myanimelist.net/images/anime/5/86830.webp) | ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://cdn.myanimelist.net/images/anime/1010/124180.webp) |
 | Zankyou no Terror |
 | ![Zankyou no Terror](https://cdn.myanimelist.net/images/anime/1417/117422.webp) |
 
@@ -307,7 +307,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--05_06:47:27_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--05_06:53:34_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
