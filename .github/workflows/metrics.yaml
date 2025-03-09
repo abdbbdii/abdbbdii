@@ -20,6 +20,7 @@ jobs:
           user: abdbbdii
           template: classic
           base: ""
+          config_display: large
           filename: assets/gen/metrics.svg
 
           plugin_languages: yes
