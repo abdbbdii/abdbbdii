@@ -22,7 +22,7 @@ jobs:
           base: ""
           filename: assets/gen/metrics.svg
 
-          # plugin_languages: yes
+          plugin_languages: yes
           # plugin_languages_analysis_timeout: 15
           # plugin_languages_sections: most-used, recently-used
           plugin_languages_categories: markup, programming
