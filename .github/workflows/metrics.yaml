@@ -36,3 +36,5 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_recent_days: 365
           # plugin_languages_other: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
