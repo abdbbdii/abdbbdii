@@ -275,6 +275,7 @@ def make_markdown():
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("Anilist"))
+    md.write(open("assets/md/anilist.md", encoding="utf-8").read())
     md.write(fetch_anilist("abdman01"), centered=False)
     md.write(ABDGHMD.heading("Game List"))
     md.write(get_games("abdbbdii"), centered=False)
