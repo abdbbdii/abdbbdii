@@ -138,7 +138,7 @@ def fetch_anilist(username):
         animes = []
         for entry in lst['entries']:
             media = entry['media']
-            title = media['title']['romaji'] or media['title']['english']
+            title = media['title']['english'] or media['title']['romaji']
             animes.append({
                 "Title": ABDGHMD._start_end(title, max=20),
                 "poster": f"[![{title}]({media['coverImage']['large']})]({media['siteUrl']})",
