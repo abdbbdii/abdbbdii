@@ -1,8 +1,9 @@
 name: Update README
 
 on:
-  repository_dispatch:
-    types: [update-readme]
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+    # types: [update-readme]
 
 permissions:
   contents: write
