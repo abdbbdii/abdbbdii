@@ -1,0 +1,27 @@
+name: Update GitHub Metrics Anilist
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: prod
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          template: classic
+          filename: assets/gen/metrics-anilist.svg
+          config_display: large
+          token: NOT_NEEDED
+          base: ""
+
+          plugin_anilist: yes
+          plugin_anilist_user: abdman01
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 100
