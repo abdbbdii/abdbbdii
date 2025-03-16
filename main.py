@@ -98,7 +98,69 @@ class ABDGHMD:
         with open(path, "w", encoding="utf-8") as f:
             f.write(self.md.strip())
 
+import requests
 
+def fetch_anilist(username):
+    md = ABDGHMD()
+    url = "https://graphql.anilist.co"
+    query = """
+    query ($username: String) {
+      MediaListCollection(userName: $username, type: ANIME) {
+        lists {
+          entries {
+            media {
+              title {
+                romaji
+                english
+              }
+              siteUrl
+              coverImage {
+                large
+              }
+            }
+            status
+          }
+        }
+      }
+    }
+    """
+    variables = {"username": username}
+    response = requests.post(url, json={"query": query, "variables": variables}).json()
+
+    if 'data' not in response or not response['data'] or 'MediaListCollection' not in response['data']:
+        return "Error: Unable to fetch data from AniList. Please check the username or try again later."
+
+    lists = response['data']['MediaListCollection']['lists']
+    if not lists:
+        return "No anime lists found for this user."
+
+    for lst in lists:
+        animes = []
+        for entry in lst['entries']:
+            media = entry['media']
+            title = media['title']['romaji'] or media['title']['english']
+            animes.append({
+                "Title": ABDGHMD._start_end(title, max=20),
+                "poster": f"[![{title}]({media['coverImage']['large']})]({media['siteUrl']})",
+            })
+
+        # Group anime by status
+        status = entry['status'].replace("_", " ").title()
+        temp_tables = ABDGHMD()
+        max_len = 4
+        for i in range(0, len(animes), max_len):
+            temp_tables.write(
+                ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), 
+                centered=True, 
+                header=True if i == 0 else False
+            ), 
+            centered=False, 
+            sep="\n"
+        )
+        md.write(str(temp_tables), centered=False, summary=status)
+
+    return str(md)
+    
 def get_anime(username):
     md = ABDGHMD()
     r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
@@ -108,7 +170,7 @@ def get_anime(username):
             animes.append(
                 {
                     "Title": ABDGHMD._start_end(anime["title"], max=20),
-                    "poster": f"![{anime['title']}]({anime['main_picture']['medium']})",
+                    "poster": f"[![{anime['title']}]({anime['main_picture']['medium']})](https://myanimelist.net/anime/{anime['id']})",
                 }
             )
         temp_tables = ABDGHMD()
@@ -212,9 +274,9 @@ def make_markdown():
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
-    md.write(ABDGHMD.heading("My Anime List"))
-    md.write(get_anime("abdbbdii"), centered=False)
-    md.write(ABDGHMD.heading("My Game List"))
+    md.write(ABDGHMD.heading("Anilist"))
+    md.write(fetch_anilist("abdman01"), centered=False)
+    md.write(ABDGHMD.heading("Game List"))
     md.write(get_games("abdbbdii"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
