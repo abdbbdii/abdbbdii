@@ -12,18 +12,11 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
----
-# `Education & Certifications`
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
+![Top Langs](assets/gen/metrics.svg)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
 
 </div>
-
-I am currently pursuing a degree at the University of Engineering and Technology (UET), with an expected graduation in 2027. Along the way, I've earned several certifications including,
-
-- 5th place (as team) in the Electocon'24 Competitive Programming by UET
-- Python certificate from Harvard's CS50 program
-- 3rd place in the SciTech Competition by COMSATS
-- 5th place in the 1st Inter-Colleges Mathematical Contest by COMSATS
-- Microsoft Office Specialist certification
 
 <div align="center">
 
@@ -79,21 +72,6 @@ I am currently pursuing a degree at the University of Engineering and Technology
 | [Harverd CS50P Projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
 | [Prize Bond Finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
 | [Minecraft Hotkey Map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
-
-</div>
-
-<div align="center">
-
----
-# `GitHub Stats`
-
-</div>
-
-<div align="center">
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
-![Top Langs](assets/gen/metrics.svg)
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
 
 </div>
 
@@ -325,7 +303,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--16_16:12:58_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--16_16:23:27_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
