@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          filename: assets/gen/metrics.svg
+          filename: assets/gen/metrics-languages.svg
 
           plugin_languages: yes
           # plugin_languages_ignored: css, tsql, html
