@@ -1,1 +1,1 @@
-![Top Langs](assets/gen/metrics-anilist.svg)
+![Anilist](assets/gen/metrics-anilist.svg)
