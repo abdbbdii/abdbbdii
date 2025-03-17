@@ -12,16 +12,22 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
-![Top Langs](assets/gen/metrics-languages.svg)
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
+---
+# `Languages & Tools`
 
 </div>
 
 <div align="center">
 
----
-# `Languages & Tools`
+Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick." 👀
+
+</div>
+
+<div align="center">
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
+![Top Langs](assets/gen/metrics-languages.svg)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
 
 </div>
 
@@ -47,6 +53,12 @@ I am a software developer and designer with expertise in building efficient, use
 
 ---
 # `Projects & Repositories`
+
+</div>
+
+<div align="center">
+
+Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. 💡
 
 </div>
 
@@ -91,7 +103,13 @@ I am a software developer and designer with expertise in building efficient, use
 <div align="center">
 
 ---
-# `Anilist`
+# `Anime List`
+
+</div>
+
+<div align="center">
+
+I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐
 
 </div>
 
@@ -172,20 +190,20 @@ I am a software developer and designer with expertise in building efficient, use
 | [![Violet Evergarden: Eternity and the Auto Memory Doll](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg)](https://anilist.co/anime/109190) | [![Violet Evergarden: the Movie](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103047-odblDHHEdehK.jpg)](https://anilist.co/anime/103047) | [![WIND BREAKER](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-oxwgbe43Cpog.jpg)](https://anilist.co/anime/163270) | [![The Promised Neverland](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-G9I2ymYrFS8o.jpg)](https://anilist.co/anime/101759) |
 | Classroom of th...Elite | Classroom of th...son 2 | Terror in Resonance | Mushoku Tensei:...son 2 |
 | [![Classroom of the Elite](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg)](https://anilist.co/anime/98659) | [![Classroom of the Elite Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145545-DGl3LVvFlnHi.png)](https://anilist.co/anime/145545) | [![Terror in Resonance](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20661-T3PD0tyXTito.png)](https://anilist.co/anime/20661) | [![Mushoku Tensei: Jobless Reincarnation Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png)](https://anilist.co/anime/146065) |
-| Suzume | Buddy Daddies | SPY x FAMILY | Anohana: The Fl...t Day |
-| [![Suzume](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg)](https://anilist.co/anime/142770) | [![Buddy Daddies](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155907-gR7aRwVHwrjc.jpg)](https://anilist.co/anime/155907) | [![SPY x FAMILY](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg)](https://anilist.co/anime/140960) | [![Anohana: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg)](https://anilist.co/anime/9989) |
-| Attack on Titan...art 2 | Classroom of th...son 3 | Demon Slayer: K...n Arc | Dr. STONE |
-| [![Attack on Titan Season 3 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg)](https://anilist.co/anime/104578) | [![Classroom of the Elite Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146066-zzKl6P6OeEjy.jpg)](https://anilist.co/anime/146066) | [![Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg)](https://anilist.co/anime/129874) | [![Dr. STONE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-02NGkx1vey2C.jpg)](https://anilist.co/anime/105333) |
-| Dr. STONE New World | Insomniacs Afte...chool | Kaiju No.8 | KONOSUBA -God's...orld! |
-| [![Dr. STONE New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg)](https://anilist.co/anime/131518) | [![Insomniacs After School](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png)](https://anilist.co/anime/143653) | [![Kaiju No.8](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-tD2OmKy5CJab.jpg)](https://anilist.co/anime/153288) | [![KONOSUBA -God's blessing on this wonderful world!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png)](https://anilist.co/anime/21202) |
-| KONOSUBA -God's...ld! 3 | Mushoku Tensei:...art 2 | One-Punch Man | Re:ZERO -Starti... OVAs |
-| [![KONOSUBA -God's blessing on this wonderful world! 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg)](https://anilist.co/anime/136804) | [![Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-xO0BRPkmwFll.png)](https://anilist.co/anime/166873) | [![One-Punch Man](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-2OkAdgfnQown.jpg)](https://anilist.co/anime/21087) | [![Re:ZERO -Starting Life in Another World- OVAs](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg)](https://anilist.co/anime/100049) |
-| Re:ZERO -Starti...son 2 | Sword Art Online | The Promised Ne...son 2 | The Seven Deadl...ement |
-| [![Re:ZERO -Starting Life in Another World- Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg)](https://anilist.co/anime/108632) | [![Sword Art Online](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg)](https://anilist.co/anime/11757) | [![The Promised Neverland Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg)](https://anilist.co/anime/108725) | [![The Seven Deadly Sins: Dragon's Judgement](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116752-yIJuKp88adqt.jpg)](https://anilist.co/anime/116752) |
-| Tokyo Ghoul | Tokyo Ghoul √A | Violet Evergard...ecial | Violet Evergarden |
-| [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-HO9hwgvavYtw.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png)](https://anilist.co/anime/21827) |
-| Your Name. |
-| [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-fPhvy69vnQqS.png)](https://anilist.co/anime/21519) |
+| Suzume | Buddy Daddies | SPY x FAMILY | SPY x FAMILY Cour 2 |
+| [![Suzume](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg)](https://anilist.co/anime/142770) | [![Buddy Daddies](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155907-gR7aRwVHwrjc.jpg)](https://anilist.co/anime/155907) | [![SPY x FAMILY](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg)](https://anilist.co/anime/140960) | [![SPY x FAMILY Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg)](https://anilist.co/anime/142838) |
+| Anohana: The Fl...t Day | Attack on Titan...art 2 | Classroom of th...son 3 | Demon Slayer: K...n Arc |
+| [![Anohana: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg)](https://anilist.co/anime/9989) | [![Attack on Titan Season 3 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg)](https://anilist.co/anime/104578) | [![Classroom of the Elite Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146066-zzKl6P6OeEjy.jpg)](https://anilist.co/anime/146066) | [![Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg)](https://anilist.co/anime/129874) |
+| Dr. STONE | Dr. STONE New World | Insomniacs Afte...chool | Kaiju No.8 |
+| [![Dr. STONE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-02NGkx1vey2C.jpg)](https://anilist.co/anime/105333) | [![Dr. STONE New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg)](https://anilist.co/anime/131518) | [![Insomniacs After School](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png)](https://anilist.co/anime/143653) | [![Kaiju No.8](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-tD2OmKy5CJab.jpg)](https://anilist.co/anime/153288) |
+| KONOSUBA -God's...orld! | KONOSUBA -God's...ld! 3 | Mushoku Tensei:...art 2 | One-Punch Man |
+| [![KONOSUBA -God's blessing on this wonderful world!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png)](https://anilist.co/anime/21202) | [![KONOSUBA -God's blessing on this wonderful world! 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg)](https://anilist.co/anime/136804) | [![Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-xO0BRPkmwFll.png)](https://anilist.co/anime/166873) | [![One-Punch Man](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-2OkAdgfnQown.jpg)](https://anilist.co/anime/21087) |
+| Re:ZERO -Starti... OVAs | Re:ZERO -Starti...son 2 | Sword Art Online | The Promised Ne...son 2 |
+| [![Re:ZERO -Starting Life in Another World- OVAs](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg)](https://anilist.co/anime/100049) | [![Re:ZERO -Starting Life in Another World- Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg)](https://anilist.co/anime/108632) | [![Sword Art Online](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg)](https://anilist.co/anime/11757) | [![The Promised Neverland Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg)](https://anilist.co/anime/108725) |
+| The Seven Deadl...ement | Tokyo Ghoul | Tokyo Ghoul √A | Violet Evergard...ecial |
+| [![The Seven Deadly Sins: Dragon's Judgement](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116752-yIJuKp88adqt.jpg)](https://anilist.co/anime/116752) | [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-HO9hwgvavYtw.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) |
+| Violet Evergarden | Your Name. |
+| [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png)](https://anilist.co/anime/21827) | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-fPhvy69vnQqS.png)](https://anilist.co/anime/21519) |
 
 </details>
 
@@ -203,11 +221,11 @@ I am a software developer and designer with expertise in building efficient, use
 
 <details><summary>Current</summary>
 
-| Dr. STONE SCIEN...UTURE | Kaguya-sama: Lo...s War | Kaguya-sama: Lo... War? | Solo Leveling S...adow- |
+| Dr. STONE SCIEN...UTURE | Kaguya-sama: Lo...s War | Solo Leveling S...adow- | Oshi No Ko |
 | :---: | :---: | :---: | :---: |
-| [![Dr. STONE SCIENCE FUTURE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-y0dLlAdingR2.jpg)](https://anilist.co/anime/172019) | [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg)](https://anilist.co/anime/101921) | [![Kaguya-sama: Love is War?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg)](https://anilist.co/anime/112641) | [![Solo Leveling Season 2 -Arise from the Shadow-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png)](https://anilist.co/anime/176496) |
-| Oshi No Ko | SPY x FAMILY Cour 2 |
-| [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png)](https://anilist.co/anime/150672) | [![SPY x FAMILY Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg)](https://anilist.co/anime/142838) |
+| [![Dr. STONE SCIENCE FUTURE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-y0dLlAdingR2.jpg)](https://anilist.co/anime/172019) | [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg)](https://anilist.co/anime/101921) | [![Solo Leveling Season 2 -Arise from the Shadow-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png)](https://anilist.co/anime/176496) | [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png)](https://anilist.co/anime/150672) |
+| SAKAMOTO DAYS |
+| [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-jBQ965JZG0l8.png)](https://anilist.co/anime/177709) |
 
 </details>
 
@@ -223,6 +241,12 @@ I am a software developer and designer with expertise in building efficient, use
 
 ---
 # `Game List`
+
+</div>
+
+<div align="center">
+
+I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 </div>
 
@@ -309,7 +333,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_06:23:59_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_13:02:36_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
