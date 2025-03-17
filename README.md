@@ -12,8 +12,7 @@ I’m a software developer and designer who lives by two mottos: *“Work smarte
 
 <div align="center">
 
----
-# `Languages & Tools`
+## `Languages & Tools`
 
 </div>
 
@@ -51,8 +50,7 @@ Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google i
 
 <div align="center">
 
----
-# `Projects & Repositories`
+## `Projects & Repositories`
 
 </div>
 
@@ -89,8 +87,7 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 
 <div align="center">
 
----
-# `Hobbies & Interests`
+## `Hobbies & Interests`
 
 </div>
 
@@ -98,8 +95,7 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 
 <div align="center">
 
----
-# `Anime List`
+## `Anime List`
 
 </div>
 
@@ -235,8 +231,7 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 
 <div align="center">
 
----
-# `Game List`
+## `Game List`
 
 </div>
 
@@ -298,8 +293,7 @@ I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 <div align="center">
 
----
-# `Meet my Code Buddies!`
+## `Meet my Code Buddies!`
 
 </div>
 
@@ -320,8 +314,7 @@ From clean code to genius ideas, they’re the real MVPs of the dev world. 😎
 
 <div align="center">
 
----
-# `Support Me`
+## `Support Me`
 
 </div>
 
@@ -336,7 +329,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_13:47:55_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_13:54:47_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
