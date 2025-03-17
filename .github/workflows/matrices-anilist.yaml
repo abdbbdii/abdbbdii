@@ -16,7 +16,7 @@ jobs:
         with:
           template: classic
           filename: assets/gen/metrics-anilist.svg
-          config_display: large
+          config_display: column
           token: NOT_NEEDED
           base: ""
 
@@ -24,4 +24,4 @@ jobs:
           plugin_anilist_user: abdbbdii
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
-          plugin_anilist_limit: 6
+          plugin_anilist_limit: 2
