@@ -1,5 +1,1 @@
-- 🌟 Anime: Diving into the world of anime, exploring different genres and stories.
-- 🎮 Gaming: Engaging in immersive gaming experiences and exploring new titles.
-- 🤖 Android Experimentation: Experimenting with Android devices, including rooting and flashing custom ROMs.
-- 🎨 Graphic Design: Freelancing in graphic design, creating visual content.
-- 💻 Programming: Enhancing my programming skills and staying updated with the latest tech trends.
+I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
