@@ -1,6 +1,6 @@
 <div align="center">
 
-![I'm Abdul Rahman AKA abd](assets/svg/header.svg)
+[![I'm Abdul Rahman AKA abd](assets/svg/header.svg)](https://abd-dev.studio)
 
 </div>
 
@@ -97,7 +97,7 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
-![Anilist](assets/gen/metrics-anilist.svg)
+[![Anilist](assets/gen/metrics-anilist.svg)](https://anilist.co/user/abdbbdii/)
 
 </div>
 
@@ -130,8 +130,8 @@ I am a software developer and designer with expertise in building efficient, use
 | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-BICFCVZY3xQb.jpg)](https://anilist.co/anime/21507) | [![Monster](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-8Iz8KB1pJNil.jpg)](https://anilist.co/anime/19) | [![Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg)](https://anilist.co/anime/141534) | [![One-Punch Man OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21416-IwCJBh54K3iw.jpg)](https://anilist.co/anime/21416) |
 | One-Punch Man S...2 OVA | Attack on Titan... High | Uzumaki | Bakemonogatari |
 | [![One-Punch Man Season 2 OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108945-snH9n5sN1vrb.png)](https://anilist.co/anime/108945) | [![Attack on Titan: Junior High](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg)](https://anilist.co/anime/21281) | [![Uzumaki](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111314-wcXR5AyJmkiQ.jpg)](https://anilist.co/anime/111314) | [![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-WNUrgxsHoE4V.jpg)](https://anilist.co/anime/5081) |
-| The Daily Life ... King |
-| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) |
+| The Daily Life ... King | From the New World |
+| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) |
 
 </details>
 
@@ -309,7 +309,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_01:00:30_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_06:23:59_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
