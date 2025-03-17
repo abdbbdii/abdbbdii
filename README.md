@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I am a software developer and designer with expertise in building efficient, user-friendly applications across different platforms. With a focus on problem-solving and creative design, I enjoy crafting innovative solutions that make a difference.
+I’m a software developer and designer who lives by two mottos: *“Work smarter, not harder”* and *“If it’s not broken, add more features.”*
 
 </div>
 
@@ -19,7 +19,7 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
-Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick." 👀
+Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick."* 👀
 
 </div>
 
@@ -94,11 +94,7 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 
 </div>
 
-- 🌟 Anime: Diving into the world of anime, exploring different genres and stories.
-- 🎮 Gaming: Engaging in immersive gaming experiences and exploring new titles.
-- 🤖 Android Experimentation: Experimenting with Android devices, including rooting and flashing custom ROMs.
-- 🎨 Graphic Design: Freelancing in graphic design, creating visual content.
-- 💻 Programming: Enhancing my programming skills and staying updated with the latest tech trends.
+I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
 
 <div align="center">
 
@@ -309,6 +305,12 @@ I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 <div align="center">
 
+From clean code to genius ideas, they’re the real MVPs of the dev world. 😎
+
+</div>
+
+<div align="center">
+
 | abeehimr | Sohaib |
 | :---: | :---: |
 | [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) | [![@SSKnT](https://github.com/SSKnT.png?size=150)](https://github.com/SSKnT) |
@@ -325,7 +327,8 @@ I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 <div align="center">
 
-Help me keep my work open source and free for everyone. Show your appreciation by buying me a coffee ☕️
+Help me keep my work open source and free for everyone—because the world needs more free stuff (and less paywalls). If you appreciate what I do, show some love by buying me a coffee. ☕️  
+> *P.S. Caffeine is the fuel that turns bugs into features.*
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffffff?logo=buymeacoffee&style=for-the-badge&color=ffdd00&logoColor=000000)](https://www.buymeacoffee.com/abdbbdii)
 
@@ -333,7 +336,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_13:02:36_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_13:47:55_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
 
 </div>
 
