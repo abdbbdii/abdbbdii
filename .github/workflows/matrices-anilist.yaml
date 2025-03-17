@@ -16,7 +16,7 @@ jobs:
         with:
           template: classic
           filename: assets/gen/metrics-anilist.svg
-          config_display: column
+          config_display: large
           token: NOT_NEEDED
           base: ""
 
