@@ -1,2 +1,1 @@
----
-# `{heading}`
+## `{heading}`

@@ -1,12 +1,24 @@
 <div align="center">
 
-![I'm Abdul Rahman AKA abd](assets/svg/header.svg)
+[![I'm Abdul Rahman AKA abd](assets/svg/header.svg)](https://abd-dev.studio)
 
 </div>
 
 <div align="center">
 
-I am a software developer and designer with expertise in building efficient, user-friendly applications across different platforms. With a focus on problem-solving and creative design, I enjoy crafting innovative solutions that make a difference.
+I’m a software developer and designer who lives by two mottos: *“Work smarter, not harder”* and *“If it’s not broken, add more features.”*
+
+</div>
+
+<div align="center">
+
+## `Languages & Tools`
+
+</div>
+
+<div align="center">
+
+Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick."* 👀
 
 </div>
 
@@ -15,13 +27,6 @@ I am a software developer and designer with expertise in building efficient, use
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
 ![Top Langs](assets/gen/metrics-languages.svg)
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
-
-</div>
-
-<div align="center">
-
----
-# `Languages & Tools`
 
 </div>
 
@@ -45,8 +50,13 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
----
-# `Projects & Repositories`
+## `Projects & Repositories`
+
+</div>
+
+<div align="center">
+
+Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. 💡
 
 </div>
 
@@ -54,50 +64,50 @@ I am a software developer and designer with expertise in building efficient, use
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [10x Pretender](https://github.com/abdbbdii/10x-Pretender) | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025-03-06 |
-| [AI LaTeX Helper](https://github.com/abdbbdii/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
-| [Terminal Based Rich Text Editor](https://github.com/abdbbdii/Terminal-Based-Rich-Text-Editor) | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024-12-04 |
-| [Automated Menu Ordering System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024-11-21 |
-| [Portfolio](https://github.com/abdbbdii/portfolio) | Next.js personal portfolio | 2024-11-19 |
-| [Hianime To Myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
-| [Console Utility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
-| [Google Classroom API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
-| [Whatsapp API](https://github.com/abdbbdii/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
-| [DBS Semester Project Source Control System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
-| [LMS Semester Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
-| [Context Menu Plugin Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
-| [Prayer Time Tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
-| [Markdown Badge Generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
-| [Car Rental Management System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
-| [Harverd CS50P Projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
-| [Prize Bond Finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
-| [Minecraft Hotkey Map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
+| **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025 |
+| **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025 |
+| **[Automated Menu Ordering System](https://github.com/abdxdev/Automated-Menu-Ordering-System)** | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024 |
+| **[Console Utility](https://github.com/abdxdev/ConsoleUtility)** | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024 |
+| **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024 |
+| **[DBS Semester Project Source Control System](https://github.com/abdxdev/DBS-Semester-Project-Source-Control-System)** | Database project for college. This project is a striped down version of github (only database design). | 2024 |
+| **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024 |
+| **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024 |
+| **[LMS Semester Project](https://github.com/abdxdev/LMS-Semester-Project)** | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024 |
+| **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio | 2024 |
+| **[Prayer Time Tracker](https://github.com/abdxdev/prayer-time-tracker)** | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024 |
+| **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
+| **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024 |
+| **[Car Rental Management System](https://github.com/abdxdev/Car-Rental-Management-System)** | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023 |
+| **[Harverd CS50P Projects](https://github.com/abdxdev/Harverd-CS50P-projects)** | This repository contains mini projects completed as part of the Harvard CS50P. | 2023 |
+| **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023 |
+| **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | This project is for CS50P final week as well as my first project in python. | 2023 |
+| **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application designed to streamline the management and tracking of prize bonds. | 2023 |
 
 </div>
 
 <div align="center">
 
----
-# `Hobbies & Interests`
+## `Hobbies & Interests`
 
 </div>
 
-- 🌟 Anime: Diving into the world of anime, exploring different genres and stories.
-- 🎮 Gaming: Engaging in immersive gaming experiences and exploring new titles.
-- 🤖 Android Experimentation: Experimenting with Android devices, including rooting and flashing custom ROMs.
-- 🎨 Graphic Design: Freelancing in graphic design, creating visual content.
-- 💻 Programming: Enhancing my programming skills and staying updated with the latest tech trends.
+I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
 
 <div align="center">
 
----
-# `Anilist`
+## `Anime List`
 
 </div>
 
 <div align="center">
 
-![Anilist](assets/gen/metrics-anilist.svg)
+I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐
+
+</div>
+
+<div align="center">
+
+[![Anilist](assets/gen/metrics-anilist.svg)](https://anilist.co/user/abdbbdii/)
 
 </div>
 
@@ -130,8 +140,8 @@ I am a software developer and designer with expertise in building efficient, use
 | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-BICFCVZY3xQb.jpg)](https://anilist.co/anime/21507) | [![Monster](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-8Iz8KB1pJNil.jpg)](https://anilist.co/anime/19) | [![Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg)](https://anilist.co/anime/141534) | [![One-Punch Man OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21416-IwCJBh54K3iw.jpg)](https://anilist.co/anime/21416) |
 | One-Punch Man S...2 OVA | Attack on Titan... High | Uzumaki | Bakemonogatari |
 | [![One-Punch Man Season 2 OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108945-snH9n5sN1vrb.png)](https://anilist.co/anime/108945) | [![Attack on Titan: Junior High](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg)](https://anilist.co/anime/21281) | [![Uzumaki](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111314-wcXR5AyJmkiQ.jpg)](https://anilist.co/anime/111314) | [![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-WNUrgxsHoE4V.jpg)](https://anilist.co/anime/5081) |
-| The Daily Life ... King |
-| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) |
+| The Daily Life ... King | From the New World |
+| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) |
 
 </details>
 
@@ -172,20 +182,20 @@ I am a software developer and designer with expertise in building efficient, use
 | [![Violet Evergarden: Eternity and the Auto Memory Doll](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg)](https://anilist.co/anime/109190) | [![Violet Evergarden: the Movie](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103047-odblDHHEdehK.jpg)](https://anilist.co/anime/103047) | [![WIND BREAKER](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-oxwgbe43Cpog.jpg)](https://anilist.co/anime/163270) | [![The Promised Neverland](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-G9I2ymYrFS8o.jpg)](https://anilist.co/anime/101759) |
 | Classroom of th...Elite | Classroom of th...son 2 | Terror in Resonance | Mushoku Tensei:...son 2 |
 | [![Classroom of the Elite](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg)](https://anilist.co/anime/98659) | [![Classroom of the Elite Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145545-DGl3LVvFlnHi.png)](https://anilist.co/anime/145545) | [![Terror in Resonance](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20661-T3PD0tyXTito.png)](https://anilist.co/anime/20661) | [![Mushoku Tensei: Jobless Reincarnation Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png)](https://anilist.co/anime/146065) |
-| Suzume | Buddy Daddies | SPY x FAMILY | Anohana: The Fl...t Day |
-| [![Suzume](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg)](https://anilist.co/anime/142770) | [![Buddy Daddies](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155907-gR7aRwVHwrjc.jpg)](https://anilist.co/anime/155907) | [![SPY x FAMILY](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg)](https://anilist.co/anime/140960) | [![Anohana: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg)](https://anilist.co/anime/9989) |
-| Attack on Titan...art 2 | Classroom of th...son 3 | Demon Slayer: K...n Arc | Dr. STONE |
-| [![Attack on Titan Season 3 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg)](https://anilist.co/anime/104578) | [![Classroom of the Elite Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146066-zzKl6P6OeEjy.jpg)](https://anilist.co/anime/146066) | [![Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg)](https://anilist.co/anime/129874) | [![Dr. STONE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-02NGkx1vey2C.jpg)](https://anilist.co/anime/105333) |
-| Dr. STONE New World | Insomniacs Afte...chool | Kaiju No.8 | KONOSUBA -God's...orld! |
-| [![Dr. STONE New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg)](https://anilist.co/anime/131518) | [![Insomniacs After School](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png)](https://anilist.co/anime/143653) | [![Kaiju No.8](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-tD2OmKy5CJab.jpg)](https://anilist.co/anime/153288) | [![KONOSUBA -God's blessing on this wonderful world!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png)](https://anilist.co/anime/21202) |
-| KONOSUBA -God's...ld! 3 | Mushoku Tensei:...art 2 | One-Punch Man | Re:ZERO -Starti... OVAs |
-| [![KONOSUBA -God's blessing on this wonderful world! 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg)](https://anilist.co/anime/136804) | [![Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-xO0BRPkmwFll.png)](https://anilist.co/anime/166873) | [![One-Punch Man](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-2OkAdgfnQown.jpg)](https://anilist.co/anime/21087) | [![Re:ZERO -Starting Life in Another World- OVAs](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg)](https://anilist.co/anime/100049) |
-| Re:ZERO -Starti...son 2 | Sword Art Online | The Promised Ne...son 2 | The Seven Deadl...ement |
-| [![Re:ZERO -Starting Life in Another World- Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg)](https://anilist.co/anime/108632) | [![Sword Art Online](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg)](https://anilist.co/anime/11757) | [![The Promised Neverland Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg)](https://anilist.co/anime/108725) | [![The Seven Deadly Sins: Dragon's Judgement](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116752-yIJuKp88adqt.jpg)](https://anilist.co/anime/116752) |
-| Tokyo Ghoul | Tokyo Ghoul √A | Violet Evergard...ecial | Violet Evergarden |
-| [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-HO9hwgvavYtw.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png)](https://anilist.co/anime/21827) |
-| Your Name. |
-| [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-fPhvy69vnQqS.png)](https://anilist.co/anime/21519) |
+| Suzume | Buddy Daddies | SPY x FAMILY | SPY x FAMILY Cour 2 |
+| [![Suzume](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg)](https://anilist.co/anime/142770) | [![Buddy Daddies](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155907-gR7aRwVHwrjc.jpg)](https://anilist.co/anime/155907) | [![SPY x FAMILY](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg)](https://anilist.co/anime/140960) | [![SPY x FAMILY Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg)](https://anilist.co/anime/142838) |
+| Anohana: The Fl...t Day | Attack on Titan...art 2 | Classroom of th...son 3 | Demon Slayer: K...n Arc |
+| [![Anohana: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg)](https://anilist.co/anime/9989) | [![Attack on Titan Season 3 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg)](https://anilist.co/anime/104578) | [![Classroom of the Elite Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146066-zzKl6P6OeEjy.jpg)](https://anilist.co/anime/146066) | [![Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg)](https://anilist.co/anime/129874) |
+| Dr. STONE | Dr. STONE New World | Insomniacs Afte...chool | Kaiju No.8 |
+| [![Dr. STONE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-02NGkx1vey2C.jpg)](https://anilist.co/anime/105333) | [![Dr. STONE New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg)](https://anilist.co/anime/131518) | [![Insomniacs After School](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png)](https://anilist.co/anime/143653) | [![Kaiju No.8](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-tD2OmKy5CJab.jpg)](https://anilist.co/anime/153288) |
+| KONOSUBA -God's...orld! | KONOSUBA -God's...ld! 3 | Mushoku Tensei:...art 2 | One-Punch Man |
+| [![KONOSUBA -God's blessing on this wonderful world!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png)](https://anilist.co/anime/21202) | [![KONOSUBA -God's blessing on this wonderful world! 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg)](https://anilist.co/anime/136804) | [![Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-xO0BRPkmwFll.png)](https://anilist.co/anime/166873) | [![One-Punch Man](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-2OkAdgfnQown.jpg)](https://anilist.co/anime/21087) |
+| Re:ZERO -Starti... OVAs | Re:ZERO -Starti...son 2 | Sword Art Online | The Promised Ne...son 2 |
+| [![Re:ZERO -Starting Life in Another World- OVAs](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg)](https://anilist.co/anime/100049) | [![Re:ZERO -Starting Life in Another World- Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg)](https://anilist.co/anime/108632) | [![Sword Art Online](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg)](https://anilist.co/anime/11757) | [![The Promised Neverland Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg)](https://anilist.co/anime/108725) |
+| The Seven Deadl...ement | Tokyo Ghoul | Tokyo Ghoul √A | Violet Evergard...ecial |
+| [![The Seven Deadly Sins: Dragon's Judgement](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116752-yIJuKp88adqt.jpg)](https://anilist.co/anime/116752) | [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-HO9hwgvavYtw.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) |
+| Violet Evergarden | Your Name. |
+| [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png)](https://anilist.co/anime/21827) | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-fPhvy69vnQqS.png)](https://anilist.co/anime/21519) |
 
 </details>
 
@@ -203,11 +213,11 @@ I am a software developer and designer with expertise in building efficient, use
 
 <details><summary>Current</summary>
 
-| Dr. STONE SCIEN...UTURE | Kaguya-sama: Lo...s War | Kaguya-sama: Lo... War? | Solo Leveling S...adow- |
+| Dr. STONE SCIEN...UTURE | Kaguya-sama: Lo...s War | Solo Leveling S...adow- | Oshi No Ko |
 | :---: | :---: | :---: | :---: |
-| [![Dr. STONE SCIENCE FUTURE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-y0dLlAdingR2.jpg)](https://anilist.co/anime/172019) | [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg)](https://anilist.co/anime/101921) | [![Kaguya-sama: Love is War?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg)](https://anilist.co/anime/112641) | [![Solo Leveling Season 2 -Arise from the Shadow-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png)](https://anilist.co/anime/176496) |
-| Oshi No Ko | SPY x FAMILY Cour 2 |
-| [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png)](https://anilist.co/anime/150672) | [![SPY x FAMILY Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg)](https://anilist.co/anime/142838) |
+| [![Dr. STONE SCIENCE FUTURE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-y0dLlAdingR2.jpg)](https://anilist.co/anime/172019) | [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg)](https://anilist.co/anime/101921) | [![Solo Leveling Season 2 -Arise from the Shadow-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png)](https://anilist.co/anime/176496) | [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png)](https://anilist.co/anime/150672) |
+| SAKAMOTO DAYS |
+| [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-jBQ965JZG0l8.png)](https://anilist.co/anime/177709) |
 
 </details>
 
@@ -221,65 +231,65 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
----
-# `Game List`
+## `Game List`
+
+</div>
+
+<div align="center">
+
+I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 </div>
 
 <details><summary>Beaten</summary>
 
-| Planet of Lana | Little Nightmares II | Ori and the Wil...Wisps |
+| Nine Sols | Planet of Lana | Stray |
 | :---: | :---: | :---: |
-| ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) |
-| Gris | Among Us | Asphalt 9: Legends |
-| ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) | ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) |
-| Minecraft: Stor...n Two | Little Nightmares | What Remains of...Finch |
-| ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) |
-| Hollow Knight | INSIDE | Ori and the Bli...ition |
-| ![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) | ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) | ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) |
-| Minecraft: Stor... Mode | BADLAND: Game o...ition | Grand Theft Auto V |
-| ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/screenshots/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
-| FEZ | Portal 2 | Limbo |
-| ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) |
-| Assassin's Creed II | Portal | Need for Speed:...und 2 |
-| ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) | ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) |
-| Grand Theft Aut...dreas | Grand Theft Aut... City | Counter-Strike |
-| ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) | ![Counter-Strike](https://media.rawg.io/media/crop/600/400/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg) |
-| Super Mario Bros. |
-| ![Super Mario Bros.](https://media.rawg.io/media/crop/600/400/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
-
-</details>
-
-<details><summary>Playing</summary>
-
-| Stray | Valorant | Celeste |
-| :---: | :---: | :---: |
-| ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) |
-| Minecraft |
-| ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
+| ![Nine Sols](https://media.rawg.io/media/crop/600/400/games/cee/cee02d983e2e1e457caa562420f532fb.jpg) | ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) |
+| Little Nightmares II | Ori and the Wil...Wisps | Gris |
+| ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) | ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) |
+| Among Us | Asphalt 9: Legends | Celeste |
+| ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) |
+| Need for Speed ...yback | Minecraft: Stor...n Two | Little Nightmares |
+| ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) | ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) |
+| What Remains of...Finch | Hollow Knight | INSIDE |
+| ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) | ![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) | ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) |
+| Ori and the Bli...ition | Unravel | Minecraft: Stor... Mode |
+| ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) |
+| TEKKEN 7 | Asphalt 8: Airborne | The Swapper |
+| ![TEKKEN 7](https://media.rawg.io/media/crop/600/400/games/62b/62b035add7205737540d66e082b85930.jpg) | ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
+| Badland | Nihilumbra | FEZ |
+| ![Badland](https://media.rawg.io/media/crop/600/400/games/f23/f23ef5fc03eb75a1790ca9cef27bdcf4.jpg) | ![Nihilumbra](https://media.rawg.io/media/crop/600/400/screenshots/dda/dda8007ccdcc71c467cacebba1c0035c.jpg) | ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) |
+| Portal 2 | Limbo | Assassin's Creed II |
+| ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) | ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) |
+| Minecraft | Assassin's Creed | Portal |
+| ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) | ![Assassin's Creed](https://media.rawg.io/media/crop/600/400/games/0bc/0bcc108295a244b488d5c25f7d867220.jpg) | ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) |
+| Need For Speed:...anted | Need for Speed:...und 2 | Grand Theft Aut...dreas |
+| ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) | ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) |
+| Grand Theft Aut... City |
+| ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) |
 
 </details>
 
 <details><summary>Dropped</summary>
 
-| Somerville | Cuphead: The De...ourse | Need for Speed ...yback |
+| Somerville | Valorant | Cuphead |
 | :---: | :---: | :---: |
-| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/600/400/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) |
-| Unravel | Asphalt 8: Airborne | The Swapper |
-| ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
-| Don't Starve | Need for Speed:... Game | Need For Speed:...anted |
-| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need for Speed: Most Wanted - A Criterion Game](https://media.rawg.io/media/crop/600/400/games/228/228e21229213695c8f6697a6b3387a2b.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) |
-| Super Mario Wor...nce 2 | Super Mario Advance | Super Mario Wor...sland |
-| ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/600/400/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/600/400/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) | ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/600/400/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) |
-| Super Mario World |
-| ![Super Mario World](https://media.rawg.io/media/crop/600/400/games/3bb/3bb2c8d774c3a83eb2c17d0d3d51f020.jpg) |
+| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Cuphead](https://media.rawg.io/media/crop/600/400/games/226/2262cea0b385db6cf399f4be831603b0.jpg) |
+| Don't Starve |
+| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) |
 
 </details>
 
 <div align="center">
 
----
-# `Meet my Code Buddies!`
+## `Meet my Code Buddies!`
+
+</div>
+
+<div align="center">
+
+From clean code to genius ideas, they’re the real MVPs of the dev world. 😎
 
 </div>
 
@@ -294,14 +304,14 @@ I am a software developer and designer with expertise in building efficient, use
 
 <div align="center">
 
----
-# `Support Me`
+## `Support Me`
 
 </div>
 
 <div align="center">
 
-Help me keep my work open source and free for everyone. Show your appreciation by buying me a coffee ☕️
+Help me keep my work open source and free for everyone—because the world needs more free stuff (and less paywalls). If you appreciate what I do, show some love by buying me a coffee. ☕️  
+> *P.S. Caffeine is the fuel that turns bugs into features.*
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffffff?logo=buymeacoffee&style=for-the-badge&color=ffdd00&logoColor=000000)](https://www.buymeacoffee.com/abdbbdii)
 
@@ -309,7 +319,7 @@ Help me keep my work open source and free for everyone. Show your appreciation b
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--17_01:00:30_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--18_14:41:42_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

@@ -249,9 +249,9 @@ def get_projects(username):
         if repo["description"] and repo["description"].strip().endswith(suffix):
             projects.append(
                 {
-                    "Project": f"[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})",
+                    "Project": f"**[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
                     "Description": repo["description"].rstrip(suffix).strip(),
-                    "Created": repo["created_at"].split("T")[0],
+                    "Created": repo["created_at"].split("T")[0][:4],
                 }
             )
     projects.sort(key=lambda x: x["Created"], reverse=True)
@@ -267,24 +267,29 @@ def make_markdown():
     # md.write(open("assets/md/education.md", encoding="utf-8").read(), centered=False)
     # md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     # md.write(ABDGHMD.heading("GitHub Stats"))
-    md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.heading("Languages & Tools"))
+    md.write("Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *\"I’ll Google it real quick.\"* 👀")
+    md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
     md.write(ABDGHMD.heading("Projects & Repositories"))
-    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdbbdii"))))
+    md.write("Here lives my ideas, my chaos, and my *\"I’ll finish this later\"* promises. 💡")
+    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdxdev"))))
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
-    md.write(ABDGHMD.heading("Anilist"))
+    md.write(ABDGHMD.heading("Anime List"))
+    md.write("I’m starting to think my *\"Planning to watch\"* list and my *\"Issues\"* tab are the same thing. 😐")
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
-    md.write(fetch_anilist("abdbbdii"), centered=False)
+    md.write(fetch_anilist("abdxdev"), centered=False)
     md.write(ABDGHMD.heading("Game List"))
-    md.write(get_games("abdbbdii"), centered=False)
+    md.write("I’m not a pro gamer, I’m a *professional respawner*. 💀")
+    md.write(get_games("abdxdev"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
+    md.write("From clean code to genius ideas, they’re the real MVPs of the dev world. 😎")
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
     # md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
-    request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdbbdii", "repo": "abdbbdii", "event": "update-readme", "redirect_uri": "https://github.com/abdbbdii"}).prepare().url
+    request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdxdev", "repo": "abdxdev", "event": "update-readme", "redirect_uri": "https://github.com/abdxdev"}).prepare().url
     md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
 

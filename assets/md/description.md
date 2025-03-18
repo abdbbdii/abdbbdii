@@ -1,1 +1,1 @@
-I am a software developer and designer with expertise in building efficient, user-friendly applications across different platforms. With a focus on problem-solving and creative design, I enjoy crafting innovative solutions that make a difference.
+I’m a software developer and designer who lives by two mottos: *“Work smarter, not harder”* and *“If it’s not broken, add more features.”*
