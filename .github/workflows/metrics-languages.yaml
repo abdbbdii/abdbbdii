@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.ABDBBDII_README }}
+          token: ${{ secrets.README }}
 
           user: abdbbdii
           template: classic
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          commits_authoring: Abdul Rahman, abdbbdii, abdbbdii@users.noreply.github.com
+          commits_authoring: Abdul Rahman, abdxdev, abdxdev@users.noreply.github.com
           plugin_languages_threshold: 0%
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
