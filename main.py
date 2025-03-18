@@ -249,9 +249,9 @@ def get_projects(username):
         if repo["description"] and repo["description"].strip().endswith(suffix):
             projects.append(
                 {
-                    "Project": f"[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})",
+                    "Project": f"**[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
                     "Description": repo["description"].rstrip(suffix).strip(),
-                    "Created": repo["created_at"].split("T")[0],
+                    "Created": repo["created_at"].split("T")[0][:4],
                 }
             )
     projects.sort(key=lambda x: x["Created"], reverse=True)
