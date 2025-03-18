@@ -64,24 +64,24 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [10x Pretender](https://github.com/abdbbdii/10x-Pretender) | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025-03-06 |
-| [AI LaTeX Helper](https://github.com/abdbbdii/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
-| [Terminal Based Rich Text Editor](https://github.com/abdbbdii/Terminal-Based-Rich-Text-Editor) | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024-12-04 |
-| [Automated Menu Ordering System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024-11-21 |
-| [Portfolio](https://github.com/abdbbdii/portfolio) | Next.js personal portfolio | 2024-11-19 |
-| [Hianime To Myanimelist](https://github.com/abdbbdii/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
-| [Console Utility](https://github.com/abdbbdii/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
-| [Google Classroom API](https://github.com/abdbbdii/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
-| [Whatsapp API](https://github.com/abdbbdii/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
-| [DBS Semester Project Source Control System](https://github.com/abdbbdii/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
-| [LMS Semester Project](https://github.com/abdbbdii/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
-| [Context Menu Plugin Manager](https://github.com/abdbbdii/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
-| [Prayer Time Tracker](https://github.com/abdbbdii/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
-| [Markdown Badge Generator](https://github.com/abdbbdii/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
-| [Car Rental Management System](https://github.com/abdbbdii/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
-| [Harverd CS50P Projects](https://github.com/abdbbdii/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
-| [Prize Bond Finder](https://github.com/abdbbdii/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
-| [Minecraft Hotkey Map](https://github.com/abdbbdii/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
+| [10x Pretender](https://github.com/abdxdev/10x-Pretender) | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025-03-06 |
+| [AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
+| [Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor) | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024-12-04 |
+| [Automated Menu Ordering System](https://github.com/abdxdev/Automated-Menu-Ordering-System) | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024-11-21 |
+| [Portfolio](https://github.com/abdxdev/portfolio) | Next.js personal portfolio | 2024-11-19 |
+| [Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
+| [Console Utility](https://github.com/abdxdev/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
+| [Google Classroom API](https://github.com/abdxdev/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
+| [Whatsapp API](https://github.com/abdxdev/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
+| [DBS Semester Project Source Control System](https://github.com/abdxdev/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
+| [LMS Semester Project](https://github.com/abdxdev/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
+| [Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
+| [Prayer Time Tracker](https://github.com/abdxdev/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
+| [Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
+| [Car Rental Management System](https://github.com/abdxdev/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
+| [Harverd CS50P Projects](https://github.com/abdxdev/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
+| [Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
+| [Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
 
 </div>
 
@@ -241,55 +241,7 @@ I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 </div>
 
-<details><summary>Beaten</summary>
 
-| Planet of Lana | Little Nightmares II | Ori and the Wil...Wisps |
-| :---: | :---: | :---: |
-| ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) |
-| Gris | Among Us | Asphalt 9: Legends |
-| ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) | ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) |
-| Minecraft: Stor...n Two | Little Nightmares | What Remains of...Finch |
-| ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) | ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) |
-| Hollow Knight | INSIDE | Ori and the Bli...ition |
-| ![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) | ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) | ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) |
-| Minecraft: Stor... Mode | BADLAND: Game o...ition | Grand Theft Auto V |
-| ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![BADLAND: Game of the Year Edition](https://media.rawg.io/media/crop/600/400/screenshots/6a3/6a3ee4e7f0466634bf2aec806688f7cf.jpg) | ![Grand Theft Auto V](https://media.rawg.io/media/crop/600/400/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg) |
-| FEZ | Portal 2 | Limbo |
-| ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) |
-| Assassin's Creed II | Portal | Need for Speed:...und 2 |
-| ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) | ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) |
-| Grand Theft Aut...dreas | Grand Theft Aut... City | Counter-Strike |
-| ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) | ![Counter-Strike](https://media.rawg.io/media/crop/600/400/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg) |
-| Super Mario Bros. |
-| ![Super Mario Bros.](https://media.rawg.io/media/crop/600/400/games/154/154fea9689109f26c49c6a2db6263ef9.jpg) |
-
-</details>
-
-<details><summary>Playing</summary>
-
-| Stray | Valorant | Celeste |
-| :---: | :---: | :---: |
-| ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) |
-| Minecraft |
-| ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) |
-
-</details>
-
-<details><summary>Dropped</summary>
-
-| Somerville | Cuphead: The De...ourse | Need for Speed ...yback |
-| :---: | :---: | :---: |
-| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Cuphead: The Delicious Last Course](https://media.rawg.io/media/crop/600/400/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg) | ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) |
-| Unravel | Asphalt 8: Airborne | The Swapper |
-| ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) | ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) | ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) |
-| Don't Starve | Need for Speed:... Game | Need For Speed:...anted |
-| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) | ![Need for Speed: Most Wanted - A Criterion Game](https://media.rawg.io/media/crop/600/400/games/228/228e21229213695c8f6697a6b3387a2b.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) |
-| Super Mario Wor...nce 2 | Super Mario Advance | Super Mario Wor...sland |
-| ![Super Mario World: Super Mario Advance 2](https://media.rawg.io/media/crop/600/400/games/413/4135e800918b4d9c0f6094ccd003a054.jpg) | ![Super Mario Advance](https://media.rawg.io/media/crop/600/400/games/315/315369a4de9c90fd7046c3006aaf908f.jpg) | ![Super Mario World 2: Yoshi's Island](https://media.rawg.io/media/crop/600/400/games/98d/98d8fbc56c9a322a84ee38128e487bc8.jpg) |
-| Super Mario World |
-| ![Super Mario World](https://media.rawg.io/media/crop/600/400/games/3bb/3bb2c8d774c3a83eb2c17d0d3d51f020.jpg) |
-
-</details>
 
 <div align="center">
 
@@ -329,7 +281,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--18_00:58:33_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdbbdii&repo=abdbbdii&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdbbdii)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--18_12:03:21_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
