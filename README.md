@@ -64,24 +64,24 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 
 | Project | Description | Created |
 | --- | --- | --- |
-| [10x Pretender](https://github.com/abdxdev/10x-Pretender) | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025-03-06 |
-| [AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper) | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025-03-04 |
-| [Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor) | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024-12-04 |
-| [Automated Menu Ordering System](https://github.com/abdxdev/Automated-Menu-Ordering-System) | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024-11-21 |
-| [Portfolio](https://github.com/abdxdev/portfolio) | Next.js personal portfolio | 2024-11-19 |
-| [Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist) | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024-08-10 |
-| [Console Utility](https://github.com/abdxdev/ConsoleUtility) | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024-07-04 |
-| [Google Classroom API](https://github.com/abdxdev/Google_Classroom_API) | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024-05-28 |
-| [Whatsapp API](https://github.com/abdxdev/Whatsapp_API) | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024-05-27 |
-| [DBS Semester Project Source Control System](https://github.com/abdxdev/DBS-Semester-Project-Source-Control-System) | Database project for college. This project is a striped down version of github (only database design). | 2024-05-04 |
-| [LMS Semester Project](https://github.com/abdxdev/LMS-Semester-Project) | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024-05-04 |
-| [Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager) | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024-04-02 |
-| [Prayer Time Tracker](https://github.com/abdxdev/prayer-time-tracker) | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024-04-01 |
-| [Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator) | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023-12-30 |
-| [Car Rental Management System](https://github.com/abdxdev/Car-Rental-Management-System) | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023-12-19 |
-| [Harverd CS50P Projects](https://github.com/abdxdev/Harverd-CS50P-projects) | This repository contains mini projects completed as part of the Harvard CS50P. | 2023-12-19 |
-| [Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder) | Desktop application designed to streamline the management and tracking of prize bonds. | 2023-12-06 |
-| [Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map) | This project is for CS50P final week as well as my first project in python. | 2023-09-16 |
+| **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025 |
+| **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025 |
+| **[Automated Menu Ordering System](https://github.com/abdxdev/Automated-Menu-Ordering-System)** | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024 |
+| **[Console Utility](https://github.com/abdxdev/ConsoleUtility)** | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024 |
+| **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024 |
+| **[DBS Semester Project Source Control System](https://github.com/abdxdev/DBS-Semester-Project-Source-Control-System)** | Database project for college. This project is a striped down version of github (only database design). | 2024 |
+| **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. | 2024 |
+| **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. | 2024 |
+| **[LMS Semester Project](https://github.com/abdxdev/LMS-Semester-Project)** | College Project for Student Management System written in C++ which help schools and educational institutions efficiently manage student-related tasks. | 2024 |
+| **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio | 2024 |
+| **[Prayer Time Tracker](https://github.com/abdxdev/prayer-time-tracker)** | This app provides a GUI interface built with Tkinter to display the prayer times and remaining time until the next prayer. | 2024 |
+| **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
+| **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | This project is a Django-based API system designed to process incoming messages, execute commands via plugins, and interact with a WhatsApp client. It also supports OpenAI's GPT model for generating conversational responses. | 2024 |
+| **[Car Rental Management System](https://github.com/abdxdev/Car-Rental-Management-System)** | This repository contains UET 1st Semester Car Rental Mangement System Project. | 2023 |
+| **[Harverd CS50P Projects](https://github.com/abdxdev/Harverd-CS50P-projects)** | This repository contains mini projects completed as part of the Harvard CS50P. | 2023 |
+| **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023 |
+| **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | This project is for CS50P final week as well as my first project in python. | 2023 |
+| **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application designed to streamline the management and tracking of prize bonds. | 2023 |
 
 </div>
 
@@ -319,7 +319,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--18_14:28:34_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--18_14:41:42_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
