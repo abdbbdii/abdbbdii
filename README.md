@@ -140,8 +140,8 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-BICFCVZY3xQb.jpg)](https://anilist.co/anime/21507) | [![Monster](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-8Iz8KB1pJNil.jpg)](https://anilist.co/anime/19) | [![Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg)](https://anilist.co/anime/141534) | [![One-Punch Man OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21416-IwCJBh54K3iw.jpg)](https://anilist.co/anime/21416) |
 | One-Punch Man S...2 OVA | Attack on Titan... High | Uzumaki | Bakemonogatari |
 | [![One-Punch Man Season 2 OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108945-snH9n5sN1vrb.png)](https://anilist.co/anime/108945) | [![Attack on Titan: Junior High](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg)](https://anilist.co/anime/21281) | [![Uzumaki](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111314-wcXR5AyJmkiQ.jpg)](https://anilist.co/anime/111314) | [![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-WNUrgxsHoE4V.jpg)](https://anilist.co/anime/5081) |
-| The Daily Life ... King | From the New World |
-| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) |
+| The Daily Life ... King | From the New World | SAKAMOTO DAYS Part 2 |
+| [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) | [![SAKAMOTO DAYS Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-7OLZM74tEoeW.jpg)](https://anilist.co/anime/184237) |
 
 </details>
 
@@ -319,7 +319,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--19_00:59:13_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--20_00:58:20_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
